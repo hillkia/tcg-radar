@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-15T13:16:38+00:00",
+ "waktu": "2026-08-15T14:04:08+00:00",
  "hasil": "berhasil",
- "potret": 5,
+ "potret": 6,
  "barang": 180,
  "hidup": [
   "pokemon",
@@ -12,14 +12,15 @@
   "arttoy": "kunci eBay belum dipasang — jalankan: python3 pasang_ebay.py",
   "onepiece": "kunci eBay belum dipasang — jalankan: python3 pasang_ebay.py"
  },
- "total_potret": 5,
+ "total_potret": 6,
  "naik": 1,
- "catatan": "",
+ "catatan": "potret terakhir baru 47 menit lalu — pembanding diambil dari yang lebih tua",
  "naik_teratas": [
   {
-   "pasar": "pokemon",
-   "nama": "Toedscool",
-   "ubah": 5.6
+   "pasar": "mtg",
+   "nama": "Black Lotus (2ED)",
+   "ubah": 12.5,
+   "selisih": 812.5
   }
  ]
 }
