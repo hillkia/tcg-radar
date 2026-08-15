@@ -177,7 +177,29 @@ def _rahasia(nama: str) -> str:
     return os.environ.get(nama, "")
 
 
+_TOKEN: tuple[str, float] | None = None      # (token, kedaluwarsa)
+
+
 def _ebay_token() -> str:
+    """Token dipakai ulang selama masih berlaku.
+
+    eBay membatasi laju permintaan token, dan dua pasar yang dilayani eBay
+    (art toy dan One Piece) berjalan berurutan dalam satu putaran. Tanpa
+    penyimpanan ini, yang kedua kena 401 — dan yang mana yang gagal berganti
+    tiap kali dijalankan, sehingga terlihat seperti kunci yang rusak sesekali,
+    bukan seperti pembatasan laju. Tokennya sendiri berlaku 2 jam.
+    """
+    import time
+    global _TOKEN
+    if _TOKEN and time.time() < _TOKEN[1]:
+        return _TOKEN[0]
+    t = _ebay_token_baru()
+    # Dikurangi 60 detik supaya tidak dipakai tepat saat kedaluwarsa.
+    _TOKEN = (t, time.time() + 7200 - 60)
+    return t
+
+
+def _ebay_token_baru() -> str:
     """Token OAuth eBay dari kunci Production di Keychain (atau environment).
 
     Tidak ada nilai bawaan dan tidak ada mode pura-pura: kalau kuncinya belum
