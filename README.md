@@ -4,7 +4,7 @@ Memantau harga pasar koleksi dua kali sehari, lalu melaporkan apa yang **bergera
 berarti** — bukan sekadar menampilkan harga hari ini, karena situs pasarnya sudah
 melakukan itu gratis. Yang dibayar orang adalah perubahannya.
 
-**Dashboard hidup:** `https://<nama-github>.github.io/tcg-radar/`
+**Dashboard hidup:** `https://hillkia.github.io/tcg-radar/`
 
 ## Pasar
 
