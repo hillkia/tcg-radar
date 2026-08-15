@@ -1,0 +1,82 @@
+# Radar Harga Koleksi — jalan di server GitHub, bukan di laptop.
+#
+# Tidak ada satu pun rahasia milik Hillkia di sini. Pokemon, Scryfall, dan
+# Skinport semuanya harga publik tanpa kunci. Kunci eBay opsional dan hanya izin
+# baca katalog. Sandi Gmail SENGAJA tidak dipakai: dia memberi akses penuh ke
+# kotak masuk, dan menaruhnya di GitHub berarti keamanannya bergantung pada
+# keamanan akun GitHub. Laporan lewat halaman web, bukan email.
+
+name: Radar Harga Koleksi
+
+on:
+  schedule:
+    # Waktu GitHub selalu UTC. WIB = UTC+7, jadi:
+    #   00:00 UTC = 07:00 WIB   ·   12:00 UTC = 19:00 WIB
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:        # tombol "Run workflow" untuk mencoba manual
+
+# Butuh menulis kembali ke repo: database harga dan halaman dashboard ikut
+# tersimpan supaya riwayatnya tidak hilang antar putaran.
+permissions:
+  contents: write
+
+concurrency:
+  # Dua putaran yang tumpang tindih bisa menulis database yang sama dan membuat
+  # potretnya rusak. Yang berjalan dibiarkan selesai, yang baru menunggu.
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  tarik:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pasang brotli
+        # Skinport hanya melayani Brotli; tanpa modul ini adapternya mati 406.
+        run: pip install --quiet -r requirements.txt
+
+      - name: Tarik harga dan rakit dashboard
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python run.py --sekali --terbit
+
+      - name: Simpan hasil kembali ke repo
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add harga.db docs/index.html status.json
+          # Kalau tidak ada yang berubah, `git commit` keluar dengan kode 1 dan
+          # menggagalkan seluruh putaran. Itu bukan kegagalan — itu hari yang
+          # harganya diam. Jadi diperiksa dulu.
+          if git diff --staged --quiet; then
+            echo "tidak ada perubahan, tidak ada yang disimpan"
+          else
+            git commit -m "radar: potret $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      - name: Ringkasan
+        run: |
+          echo "### Radar Harga Koleksi" >> $GITHUB_STEP_SUMMARY
+          python - <<'PY' >> $GITHUB_STEP_SUMMARY
+          import json, pathlib
+          p = pathlib.Path("status.json")
+          if not p.exists():
+              print("status.json tidak ada"); raise SystemExit
+          s = json.loads(p.read_text())
+          print(f"- potret **#{s.get('potret','-')}** · {s.get('barang',0)} harga")
+          print(f"- pasar hidup: {', '.join(s.get('hidup', [])) or '—'}")
+          for k, v in (s.get("mati") or {}).items():
+              print(f"- ❌ {k}: {v[:90]}")
+          for x in s.get("naik_teratas", []):
+              print(f"- 📈 {x['nama'][:50]} **{x['ubah']:+}%**")
+          PY
