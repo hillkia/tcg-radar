@@ -1,0 +1,16 @@
+# Lingkungan Python lokal — dibangun ulang dari requirements.txt, tidak perlu ikut
+.venv/
+__pycache__/
+*.pyc
+
+# Bahan jualan yang dibuat di laptop. Video 0,4 MB tiap putaran akan menggembungkan
+# riwayat repo tanpa guna: yang dilihat klien adalah halaman hidup di docs/, dan
+# video dibuat ulang kapan saja dengan `python rekam.py`.
+demo.mp4
+papan.png
+
+# Log putaran lokal. Di GitHub, riwayatnya sudah ada di tab Actions.
+jalan.log
+
+# papan.html adalah keluaran sementara; yang diterbitkan adalah docs/index.html.
+papan.html

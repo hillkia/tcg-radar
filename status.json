@@ -1,0 +1,25 @@
+{
+ "waktu": "2026-08-15T13:16:38+00:00",
+ "hasil": "berhasil",
+ "potret": 5,
+ "barang": 180,
+ "hidup": [
+  "pokemon",
+  "mtg",
+  "cs2"
+ ],
+ "mati": {
+  "arttoy": "kunci eBay belum dipasang — jalankan: python3 pasang_ebay.py",
+  "onepiece": "kunci eBay belum dipasang — jalankan: python3 pasang_ebay.py"
+ },
+ "total_potret": 5,
+ "naik": 1,
+ "catatan": "",
+ "naik_teratas": [
+  {
+   "pasar": "pokemon",
+   "nama": "Toedscool",
+   "ubah": 5.6
+  }
+ ]
+}
