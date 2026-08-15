@@ -1,18 +1,26 @@
 {
- "waktu": "2026-08-15T15:05:36+00:00",
+ "waktu": "2026-08-15T15:06:40+00:00",
  "hasil": "berhasil",
- "potret": 6,
- "barang": 260,
+ "potret": 7,
+ "barang": 180,
  "hidup": [
   "pokemon",
   "mtg",
-  "cs2",
-  "arttoy",
-  "onepiece"
+  "cs2"
  ],
- "mati": {},
- "total_potret": 6,
- "naik": 0,
- "catatan": "potret terakhir baru 108 menit lalu — pembanding diambil dari yang lebih tua",
- "naik_teratas": []
+ "mati": {
+  "arttoy": "token eBay ditolak: HTTP Error 401: Unauthorized",
+  "onepiece": "token eBay ditolak: HTTP Error 401: Unauthorized"
+ },
+ "total_potret": 7,
+ "naik": 1,
+ "catatan": "potret terakhir baru 1 menit lalu — pembanding diambil dari yang lebih tua",
+ "naik_teratas": [
+  {
+   "pasar": "mtg",
+   "nama": "Black Lotus (2ED)",
+   "ubah": 12.5,
+   "selisih": 812.5
+  }
+ ]
 }
