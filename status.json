@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-15T15:08:23+00:00",
+ "waktu": "2026-08-16T01:05:49+00:00",
  "hasil": "berhasil",
- "potret": 8,
+ "potret": 9,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,8 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 8,
- "naik": 0,
- "catatan": "potret terakhir baru 1 menit lalu — pembanding diambil dari yang lebih tua",
- "naik_teratas": []
+ "total_potret": 9,
+ "naik": 4,
+ "catatan": "",
+ "naik_teratas": [
+  {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Doppler (Factory New)",
+   "ubah": 84.8,
+   "selisih": 4662.23
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Black Lotus (2ED)",
+   "ubah": 12.5,
+   "selisih": 812.5
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 11.5,
+   "selisih": 15.01
+  },
+  {
+   "pasar": "cs2",
+   "nama": "Souvenir AWP | Dragon Lore (Factory New)",
+   "ubah": 4.0,
+   "selisih": 544.85
+  }
+ ]
 }
