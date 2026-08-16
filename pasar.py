@@ -67,18 +67,30 @@ def _json_brotli(url: str, timeout: int = 60):
         raise PasarGagal("modul brotli belum ada — jalankan lewat .venv/bin/python "
                          "(pasang: python3 -m venv .venv && "
                          ".venv/bin/pip install -r requirements.txt)")
-    r = urllib.request.Request(url, headers={"User-Agent": UA,
-                                             "Accept": "application/json",
-                                             "Accept-Encoding": "br"})
-    mentah = urllib.request.urlopen(r, timeout=timeout).read()
-    try:
-        teks = brotli.decompress(mentah)
-    except Exception:
-        teks = mentah          # sebagian CDN sudah membuka paketnya lebih dulu
-    try:
-        return json.loads(teks)
-    except json.JSONDecodeError:
-        raise PasarGagal(f"jawaban bukan JSON: {teks[:120]!r}")
+    # Skinport membatasi laju dan sesekali menolak walau kuncinya benar. Kegagalan
+    # sekali di putaran terjadwal berarti CS2 bolong untuk hari itu, dan bolong
+    # memutus rantai perbandingan — barang yang hilang lalu muncul lagi tidak bisa
+    # dibandingkan dengan apa pun. Tiga percobaan jauh lebih murah daripada itu.
+    import time
+    galat = ""
+    for percobaan in range(3):
+        try:
+            r = urllib.request.Request(url, headers={"User-Agent": UA,
+                                                     "Accept": "application/json",
+                                                     "Accept-Encoding": "br"})
+            mentah = urllib.request.urlopen(r, timeout=timeout).read()
+            try:
+                teks = brotli.decompress(mentah)
+            except Exception:
+                teks = mentah      # sebagian CDN sudah membuka paketnya lebih dulu
+            return json.loads(teks)
+        except json.JSONDecodeError:
+            raise PasarGagal(f"jawaban bukan JSON: {teks[:120]!r}")
+        except Exception as e:
+            galat = f"{type(e).__name__}: {e}"
+            if percobaan < 2:
+                time.sleep(8 * (percobaan + 1))
+    raise PasarGagal(f"skinport: {galat} (3 percobaan)")
 
 
 # ─────────────────────────────── POKEMON TCG ────────────────────────────────
@@ -135,22 +147,39 @@ def pokemon(set_id: str = "sv1", batas: int = 60) -> list[Barang]:
 
 # ──────────────────────────────── SKIN CS2 ──────────────────────────────────
 
+# Berapa listing minimum sebelum sebuah barang layak dipantau.
+#
+# Diukur 16/8/2026 pada feed penuh 25.283 barang: dari 60 barang TERMAHAL,
+# 45 di antaranya hanya punya 1-2 listing. Di stok setipis itu `min_price`
+# bukan nilai barang — dia harga listing termurah yang kebetulan masih ada.
+# Begitu yang murah laku, angkanya melompat ke listing berikutnya, dan
+# laporan mencatatnya sebagai "naik 84,8%". Yang naik bukan harganya; yang
+# hilang adalah penjual termurahnya. Satu M9 Bayonet tercatat begitu, lalu
+# lenyap sama sekali dari feed keesokan harinya — memang terjual.
+STOK_MINIMUM = 5
+
+
 def cs2(batas: int = 60) -> list[Barang]:
     d = _json_brotli("https://api.skinport.com/v1/items?app_id=730&currency=USD")
     if not isinstance(d, list):
         raise PasarGagal(f"bentuk jawaban tak terduga: {type(d).__name__}")
     out = []
     for x in d:
-        h = x.get("min_price") or x.get("suggested_price")
-        if not h:
+        # median_price, BUKAN min_price. Keduanya ada di 100% barang, tapi
+        # min_price bergerak setiap kali satu listing terjual sedangkan median
+        # menahan diri. Yang dijual ke pedagang adalah pergerakan nilai, bukan
+        # pergerakan antrean penjual.
+        h = x.get("median_price")
+        if not h or (x.get("quantity") or 0) < STOK_MINIMUM:
             continue
         out.append(Barang("cs2", x.get("market_hash_name", "?"), float(h),
                           x.get("item_page", "")))
-    # Barang paling mahal yang paling sering dipantau trader; yang $0,03 hanya
-    # menambah derau ke daftar lonjakan.
+    # Termahal DI ANTARA yang likuid. Mengurutkan seluruh feed dari yang termahal
+    # justru memilih barang paling sepi — sampel terburuk untuk mengukur
+    # pergerakan, karena di situ derau paling besar dan maknanya paling kecil.
     out.sort(key=lambda b: -b.harga)
     if not out:
-        raise PasarGagal("Skinport menjawab tapi tidak ada harga")
+        raise PasarGagal(f"tidak ada barang dengan stok >= {STOK_MINIMUM}")
     return out[:batas]
 
 

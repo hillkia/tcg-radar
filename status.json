@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-15T15:05:36+00:00",
+ "waktu": "2026-08-16T12:08:55+00:00",
  "hasil": "berhasil",
- "potret": 6,
+ "potret": 10,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,8 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 6,
- "naik": 0,
- "catatan": "potret terakhir baru 108 menit lalu — pembanding diambil dari yang lebih tua",
- "naik_teratas": []
+ "total_potret": 10,
+ "naik": 3,
+ "catatan": "potret terakhir baru 0 menit lalu — pembanding diambil dari yang lebih tua",
+ "naik_teratas": [
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 32.4,
+   "selisih": 12.0
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Black Lotus (2ED)",
+   "ubah": 12.5,
+   "selisih": 812.5
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 7.7,
+   "selisih": 1.0
+  }
+ ]
 }
