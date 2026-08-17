@@ -1,8 +1,8 @@
 {
- "waktu": "2026-08-16T12:41:46+00:00",
+ "waktu": "2026-08-17T01:04:00+00:00",
  "hasil": "berhasil",
- "potret": 12,
- "barang": 260,
+ "potret": 13,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 12,
- "naik": 3,
- "catatan": "potret terakhir baru 29 menit lalu — pembanding diambil dari yang lebih tua",
+ "total_potret": 13,
+ "naik": 5,
+ "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 32.4,
-   "selisih": 12.0
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife",
+   "ubah": 8.1,
+   "selisih": 146.05
   },
   {
-   "pasar": "mtg",
-   "nama": "Black Lotus (2ED)",
-   "ubah": 12.5,
-   "selisih": 812.5
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
+   "ubah": 5.2,
+   "selisih": 102.31
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 5.9,
-   "selisih": 1.0
+   "pasar": "cs2",
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 3.6,
+   "selisih": 75.4
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 3.5,
+   "selisih": 88.6
+  },
+  {
+   "pasar": "cs2",
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 1.3,
+   "selisih": 29.88
   }
  ]
 }
