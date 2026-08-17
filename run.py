@@ -165,10 +165,13 @@ def _cli(argv=None) -> int:
         try:
             import subprocess
             M = str(Path.home() / "neuralink-mythos-worker")
-            for modul in ("mesin.serap", "mesin.panel"):
+            # kabar ikut: menyerap → hitung ulang panel → kabari pemiliknya.
+            # kabar diam sendiri kalau tidak ada yang berubah, jadi aman
+            # dijalankan dua kali sehari.
+            for modul in ("mesin.serap", "mesin.panel", "mesin.kabar"):
                 subprocess.run(["python3", "-m", modul], cwd=M,
                                capture_output=True, timeout=180)
-            print("  📊 panel MYTHOS disegarkan")
+            print("  📊 panel MYTHOS disegarkan + kabar dikirim kalau ada perubahan")
         except Exception as e:
             print(f"  ⚠️  panel MYTHOS tidak tersegarkan: {e}")
 
