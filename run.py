@@ -157,6 +157,21 @@ def _cli(argv=None) -> int:
             print("  🌐 " + str(_terbitkan()))
         if x.lapor:
             _laporkan()
+        # Panel MYTHOS hanya jujur kalau ledger-nya menyerap kerja yang terjadi di
+        # luar MYTHOS. Dijalankan di sini karena putaran ini memang sudah rutin;
+        # membuat jadwal terpisah hanya menambah satu hal lagi yang bisa mati
+        # diam-diam. Kegagalannya tidak menjatuhkan putaran — data harga sudah
+        # aman, dan panel yang telat sehari jauh lebih ringan akibatnya.
+        try:
+            import subprocess
+            M = str(Path.home() / "neuralink-mythos-worker")
+            for modul in ("mesin.serap", "mesin.panel"):
+                subprocess.run(["python3", "-m", modul], cwd=M,
+                               capture_output=True, timeout=180)
+            print("  📊 panel MYTHOS disegarkan")
+        except Exception as e:
+            print(f"  ⚠️  panel MYTHOS tidak tersegarkan: {e}")
+
         if x.rekam:
             # rekam.py menolak sendiri kalau tidak ada yang naik, jadi tidak perlu
             # dijaga dua kali di sini. Kegagalannya juga tidak boleh menjatuhkan
