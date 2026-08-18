@@ -1,43 +1,38 @@
 {
- "waktu": "2026-08-17T12:48:51+00:00",
+ "waktu": "2026-08-18T01:01:56+00:00",
  "hasil": "berhasil",
- "potret": 13,
- "barang": 260,
+ "potret": 14,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 13,
- "naik": 4,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 14,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 629.8,
-   "selisih": 107.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 32.4,
+   "selisih": 12.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife",
+   "ubah": 8.0,
+   "selisih": 145.6
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 7.7,
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 5.9,
    "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 7.6,
-   "selisih": 415.06
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
-   "ubah": 1.3,
-   "selisih": 29.3
   }
  ]
 }
