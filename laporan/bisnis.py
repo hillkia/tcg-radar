@@ -59,6 +59,46 @@ b.append("── COWORK GENZ " + "─" * 28)
 b.append(f"  papan harga {kode('https://hillkia.github.io/tcg-radar/')}")
 b.append("")
 
+b.append("── KUNJUNGAN " + "─" * 30)
+KUNCI = {"ocklu.com": "Halaman depan", "ocklu.com-direktori": "Direktori audit",
+         "ocklu.com-merek": "Halaman per merek", "ocklu.com-artikel": "Daftar artikel",
+         "ocklu.com-artikel-baca": "Artikel dibaca"}
+import re as _re
+tot = 0; tahu = False
+for k, nama in KUNCI.items():
+    try:
+        # nocount=1 supaya pembacaan ini sendiri tidak menaikkan angkanya
+        rq = urllib.request.Request("https://hits.sh/" + k + ".svg?nocount=1",
+                                    headers={"User-Agent": "ocklu-lapor/1.0"})
+        svg = urllib.request.urlopen(rq, timeout=15).read().decode()
+        m = _re.findall(r">([\d,]+)<", svg)
+        n = int(m[-1].replace(",", "")) if m else None
+    except Exception:
+        n = None
+    if n is None:
+        b.append(f"  {nama:22} tidak terbaca")
+    else:
+        b.append(f"  {nama:22} {n}")
+        tot += n; tahu = True
+b.append(f"  {'TOTAL ocklu.com':22} {tot}" if tahu else "  total tidak terbaca")
+try:
+    if tok:
+        rr = json.loads(urllib.request.urlopen(
+            f"https://api.gumroad.com/v2/products?access_token={urllib.parse.quote(tok)}", timeout=25).read())
+        for pr in rr.get("products", []):
+            b.append(f"  Gumroad ${pr['price']/100:.0f}{'':10} dilihat {pr.get('view_count','?')}")
+except Exception:
+    pass
+b.append("  Fiverr & Upwork tidak membuka angka kunjungan lewat API —")
+b.append("  lihat di dasbor masing-masing.")
+b.append("")
+
+b.append("── RPM " + "─" * 36)
+b.append("  Belum tersambung — sumber angkanya belum ditentukan.")
+b.append("  Kalau RPM = pendapatan per 1000 tayangan, dia baru punya arti")
+b.append("  setelah ada tayangan iklan atau penjualan; keduanya masih nol.")
+b.append("")
+
 b.append("── CATATAN " + "─" * 32)
 b.append("  Laporan ini jalan di GitHub Actions, BUKAN di laptop.")
 b.append("  Kalau laptop mati, laporan ini tetap datang.")
