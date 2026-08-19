@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-19T01:02:31+00:00",
+ "waktu": "2026-08-19T12:50:29+00:00",
  "hasil": "berhasil",
- "potret": 16,
+ "potret": 17,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 16,
- "naik": 6,
+ "total_potret": 17,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 62.5,
-   "selisih": 50.0
-  },
-  {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 37.1,
-   "selisih": 10.0
+   "nama": "POP MART Labubu x Hello Kitty Plush Pendant Authentic Fast US Shipping",
+   "ubah": 28.6,
+   "selisih": 7.2
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card Game Chinese Sanji OP01-013 TR Alternate Art Exlusive NM",
+   "ubah": 9.6,
+   "selisih": 55.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Bayonet | Doppler (Factory New)",
-   "ubah": 10.7,
-   "selisih": 188.23
+   "nama": "M4A4 | Howl (Minimal Wear)",
+   "ubah": 4.2,
+   "selisih": 231.52
   },
   {
    "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
-   "ubah": 6.5,
-   "selisih": 178.37
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 2.3,
-   "selisih": 45.71
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 1.4,
+   "selisih": 27.04
   }
  ]
 }
