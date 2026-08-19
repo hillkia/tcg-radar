@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-18T12:49:56+00:00",
+ "waktu": "2026-08-19T01:02:31+00:00",
  "hasil": "berhasil",
- "potret": 15,
+ "potret": 16,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 15,
- "naik": 4,
+ "total_potret": 16,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 62.5,
+   "selisih": 50.0
+  },
+  {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 629.8,
-   "selisih": 107.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 37.1,
+   "selisih": 10.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 57.2,
-   "selisih": 949.58
+   "nama": "★ Bayonet | Doppler (Factory New)",
+   "ubah": 10.7,
+   "selisih": 188.23
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 5.8,
-   "selisih": 167.98
+   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
+   "ubah": 6.5,
+   "selisih": 178.37
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 1.8,
-   "selisih": 47.45
+   "nama": "★ Butterfly Knife",
+   "ubah": 2.3,
+   "selisih": 45.71
   }
  ]
 }
