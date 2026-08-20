@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-20T01:02:08+00:00",
+ "waktu": "2026-08-20T12:53:20+00:00",
  "hasil": "berhasil",
- "potret": 18,
+ "potret": 19,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 18,
- "naik": 5,
+ "total_potret": 19,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 12.5,
-   "selisih": 2.0
+   "ubah": 372.4,
+   "selisih": 67.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 5.3,
+   "selisih": 1.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 8.8,
-   "selisih": 146.59
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 2.8,
+   "selisih": 60.9
   },
   {
    "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
-   "ubah": 3.1,
-   "selisih": 70.08
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
-   "ubah": 3.0,
-   "selisih": 63.08
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
    "ubah": 2.7,
-   "selisih": 75.57
+   "selisih": 70.47
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Hydroponic (Factory New)",
+   "ubah": 1.7,
+   "selisih": 85.92
   }
  ]
 }
