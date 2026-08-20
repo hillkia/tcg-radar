@@ -51,8 +51,26 @@ else:
 b.append("")
 
 b.append("── FIVERR " + "─" * 33)
-b.append(f"  gig publik {kode('https://www.fiverr.com/ockylockyl/audit-your-website-for-wcag-and-ada-accessibility-compliance')}")
-b.append("  (403 dari server itu normal — Fiverr menolak permintaan non-browser)")
+GIG = "https://www.fiverr.com/ockylockyl/audit-your-website-for-wcag-and-ada-accessibility-compliance"
+k = kode(GIG)
+# Fiverr menolak permintaan non-browser, jadi kode HTTP saja tidak bisa
+# membedakan "gig dihapus" dari "gig hidup tapi menolak robot". Yang dibaca
+# di sini apakah halamannya MEMUAT NAMA GIG-nya — itu satu-satunya bukti dari
+# luar yang tidak bisa dipalsukan oleh penolakan bot.
+try:
+    rq = urllib.request.Request(GIG, headers={"User-Agent":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126.0"})
+    isi = urllib.request.urlopen(rq, timeout=20).read().decode("utf-8", "ignore")
+    tayang = "wcag" in isi.lower() and "accessibility" in isi.lower()
+    harga = "$35" in isi or "35" in isi
+    b.append(f"  gig TAYANG: {'YA' if tayang else 'tidak terbaca'}  (HTTP {k})")
+    if tayang:
+        b.append("  Compliance Scan $35 · Full Site Audit $85 · Audit+Remediation $195")
+except Exception as e:
+    b.append(f"  gig HTTP {k} — halaman tidak terbaca dari server ({str(e)[:40]})")
+    b.append("  Itu belum tentu mati: Fiverr sering menolak permintaan non-browser.")
+b.append(f"  {GIG}")
+b.append("  Pesanan & tayangan tidak dibuka Fiverr lewat API — lihat dasbor penjual.")
 b.append("")
 
 b.append("── COWORK GENZ " + "─" * 28)
