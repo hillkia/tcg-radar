@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-19T12:50:29+00:00",
+ "waktu": "2026-08-20T01:02:08+00:00",
  "hasil": "berhasil",
- "potret": 17,
+ "potret": 18,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 17,
- "naik": 4,
+ "total_potret": 18,
+ "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu x Hello Kitty Plush Pendant Authentic Fast US Shipping",
-   "ubah": 28.6,
-   "selisih": 7.2
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card Game Chinese Sanji OP01-013 TR Alternate Art Exlusive NM",
-   "ubah": 9.6,
-   "selisih": 55.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 12.5,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 4.2,
-   "selisih": 231.52
+   "nama": "★ Butterfly Knife",
+   "ubah": 8.8,
+   "selisih": 146.59
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 1.4,
-   "selisih": 27.04
+   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+   "ubah": 3.1,
+   "selisih": 70.08
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
+   "ubah": 3.0,
+   "selisih": 63.08
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 2.7,
+   "selisih": 75.57
   }
  ]
 }
