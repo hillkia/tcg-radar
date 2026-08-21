@@ -1,8 +1,8 @@
 {
- "waktu": "2026-08-21T01:05:41+00:00",
+ "waktu": "2026-08-21T12:51:34+00:00",
  "hasil": "berhasil",
- "potret": 20,
- "barang": 220,
+ "potret": 21,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,15 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 20,
- "naik": 12,
+ "total_potret": 21,
+ "naik": 1,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 565.0,
-   "selisih": 96.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 400.4,
-   "selisih": 40.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "ONE PIECE Card Game Saikyo Jump May 2026 Champion Pack 3 Promo Cards Japan Seale",
-   "ubah": 111.9,
-   "selisih": 46.99
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Sisi Plush Figure Open Box New Inside",
-   "ubah": 29.4,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Big Into Energy Happiness Plush Doll Toy",
-   "ubah": 22.2,
-   "selisih": 4.0
+   "ubah": 4.5,
+   "selisih": 1.0
   }
  ]
 }
