@@ -1,8 +1,8 @@
 {
- "waktu": "2026-08-20T12:53:20+00:00",
+ "waktu": "2026-08-21T01:05:41+00:00",
  "hasil": "berhasil",
- "potret": 19,
- "barang": 260,
+ "potret": 20,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 19,
- "naik": 6,
+ "total_potret": 20,
+ "naik": 12,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 565.0,
+   "selisih": 96.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 5.3,
-   "selisih": 1.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 400.4,
+   "selisih": 40.0
   },
   {
-   "pasar": "cs2",
-   "nama": "M4A1-S | Hot Rod (Factory New)",
-   "ubah": 2.8,
-   "selisih": 60.9
+   "pasar": "onepiece",
+   "nama": "ONE PIECE Card Game Saikyo Jump May 2026 Champion Pack 3 Promo Cards Japan Seale",
+   "ubah": 111.9,
+   "selisih": 46.99
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 2.7,
-   "selisih": 70.47
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Sisi Plush Figure Open Box New Inside",
+   "ubah": 29.4,
+   "selisih": 5.0
   },
   {
-   "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Factory New)",
-   "ubah": 1.7,
-   "selisih": 85.92
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Big Into Energy Happiness Plush Doll Toy",
+   "ubah": 22.2,
+   "selisih": 4.0
   }
  ]
 }
