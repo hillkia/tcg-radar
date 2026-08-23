@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-23T01:06:32+00:00",
+ "waktu": "2026-08-23T12:42:53+00:00",
  "hasil": "berhasil",
- "potret": 24,
+ "potret": 25,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 24,
- "naik": 6,
+ "total_potret": 25,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 58.7,
-   "selisih": 971.92
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Driver Gloves | Crimson Weave (Field-Tested)",
-   "ubah": 16.5,
-   "selisih": 414.05
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 629.8,
+   "selisih": 107.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 13.8,
-   "selisih": 4.0
+   "ubah": 48.5,
+   "selisih": 16.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 2.1,
-   "selisih": 119.31
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 2.5,
+   "selisih": 44.88
   }
  ]
 }
