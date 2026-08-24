@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-24T01:04:10+00:00",
+ "waktu": "2026-08-24T12:53:42+00:00",
  "hasil": "berhasil",
- "potret": 26,
+ "potret": 27,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 26,
- "naik": 6,
+ "total_potret": 27,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "ONE PIECE Card Game Premium Card Collection ONE PIECE DAY'26 limited P-161 JPN",
-   "ubah": 184.8,
-   "selisih": 311.44
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 629.8,
+   "selisih": 107.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 400.4,
+   "selisih": 40.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 9.3,
-   "selisih": 155.91
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Crimson Kimono (Minimal Wear)",
-   "ubah": 5.5,
-   "selisih": 166.18
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Monkey D. Luffy Grevin Museum Promo Exclusive Op13-001 SEALED USA",
-   "ubah": 3.4,
-   "selisih": 20.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Glock-18 | Fade (Factory New)",
-   "ubah": 1.3,
-   "selisih": 26.78
+   "nama": "★ M9 Bayonet | Doppler (Factory New)",
+   "ubah": 7.7,
+   "selisih": 132.03
   }
  ]
 }
