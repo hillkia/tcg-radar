@@ -1,8 +1,8 @@
 {
- "waktu": "2026-08-25T01:03:54+00:00",
+ "waktu": "2026-08-25T12:50:51+00:00",
  "hasil": "berhasil",
- "potret": 28,
- "barang": 220,
+ "potret": 29,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 28,
- "naik": 3,
+ "total_potret": 29,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 565.0,
+   "selisih": 96.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART THE MONSTERS Labubu Hair Salon Series Plush Pendant In Hand US Shipping",
+   "ubah": 16.0,
+   "selisih": 7.2
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 2.8,
-   "selisih": 52.13
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 4.4,
+   "selisih": 81.97
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
-   "ubah": 1.2,
-   "selisih": 29.56
+   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+   "ubah": 3.2,
+   "selisih": 70.59
   }
  ]
 }
