@@ -1,8 +1,8 @@
 {
- "waktu": "2026-08-24T12:53:42+00:00",
+ "waktu": "2026-08-25T01:03:54+00:00",
  "hasil": "berhasil",
- "potret": 27,
- "barang": 260,
+ "potret": 28,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 27,
+ "total_potret": 28,
  "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 629.8,
-   "selisih": 107.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 400.4,
-   "selisih": 40.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 368.6,
+   "selisih": 70.0
   },
   {
    "pasar": "cs2",
    "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 7.7,
-   "selisih": 132.03
+   "ubah": 2.8,
+   "selisih": 52.13
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
+   "ubah": 1.2,
+   "selisih": 29.56
   }
  ]
 }
