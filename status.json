@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-25T12:50:51+00:00",
+ "waktu": "2026-08-26T01:05:33+00:00",
  "hasil": "berhasil",
- "potret": 29,
+ "potret": 30,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,15 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 29,
- "naik": 4,
+ "total_potret": 30,
+ "naik": 1,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 565.0,
-   "selisih": 96.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART THE MONSTERS Labubu Hair Salon Series Plush Pendant In Hand US Shipping",
-   "ubah": 16.0,
-   "selisih": 7.2
-  },
-  {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 4.4,
-   "selisih": 81.97
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
-   "ubah": 3.2,
-   "selisih": 70.59
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 59.6,
+   "selisih": 985.45
   }
  ]
 }
