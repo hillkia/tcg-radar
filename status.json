@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-27T07:07:09+00:00",
+ "waktu": "2026-08-27T21:56:11+00:00",
  "hasil": "berhasil",
- "potret": 32,
+ "potret": 33,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,21 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 32,
- "naik": 2,
+ "total_potret": 33,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "cs2",
-   "nama": "★ StatTrak™ Butterfly Knife",
-   "ubah": 6.8,
-   "selisih": 160.78
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 5.0,
+   "selisih": 131.88
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 4.8,
-   "selisih": 104.97
+   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
+   "ubah": 5.0,
+   "selisih": 138.22
+  },
+  {
+   "pasar": "cs2",
+   "nama": "Glock-18 | Fade (Factory New)",
+   "ubah": 1.6,
+   "selisih": 33.27
   }
  ]
 }
