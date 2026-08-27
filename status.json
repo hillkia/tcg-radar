@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-26T12:55:17+00:00",
+ "waktu": "2026-08-27T07:07:09+00:00",
  "hasil": "berhasil",
- "potret": 31,
+ "potret": 32,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,21 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 31,
- "naik": 4,
+ "total_potret": 32,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 565.0,
-   "selisih": 96.0
+   "pasar": "cs2",
+   "nama": "★ StatTrak™ Butterfly Knife",
+   "ubah": 6.8,
+   "selisih": 160.78
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 5.0,
-   "selisih": 133.94
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
-   "ubah": 3.0,
-   "selisih": 179.47
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Talon Knife | Doppler (Factory New)",
-   "ubah": 1.4,
-   "selisih": 41.52
+   "nama": "★ Karambit | Fade (Factory New)",
+   "ubah": 4.8,
+   "selisih": 104.97
   }
  ]
 }
