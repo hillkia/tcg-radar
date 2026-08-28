@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-27T21:56:11+00:00",
+ "waktu": "2026-08-28T08:54:36+00:00",
  "hasil": "berhasil",
- "potret": 33,
+ "potret": 34,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,27 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 33,
+ "total_potret": 34,
  "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 5.0,
-   "selisih": 131.88
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 368.6,
+   "selisih": 70.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 16.7,
+   "selisih": 3.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
-   "ubah": 5.0,
-   "selisih": 138.22
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Glock-18 | Fade (Factory New)",
-   "ubah": 1.6,
-   "selisih": 33.27
+   "nama": "M4A4 | Howl (Minimal Wear)",
+   "ubah": 5.3,
+   "selisih": 295.29
   }
  ]
 }
