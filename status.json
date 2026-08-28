@@ -1,37 +1,50 @@
 {
- "waktu": "2026-08-28T08:54:36+00:00",
+ "waktu": "2026-08-28T21:49:29+00:00",
  "hasil": "berhasil",
- "potret": 34,
- "barang": 260,
+ "potret": 35,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 34,
- "naik": 3,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 35,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 565.0,
+   "selisih": 96.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 16.7,
-   "selisih": 3.0
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 44.9,
+   "selisih": 35.89
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "IN HAND One Piece TCG Card - Monkey D. Luffy OP13-001 - Grévin Paris Museum FAST",
+   "ubah": 14.3,
+   "selisih": 23.31
   },
   {
    "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 5.3,
-   "selisih": 295.29
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 3.9,
+   "selisih": 72.49
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 2.4,
+   "selisih": 51.8
   }
  ]
 }
