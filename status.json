@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-29T05:29:56+00:00",
+ "waktu": "2026-08-29T16:22:32+00:00",
  "hasil": "berhasil",
- "potret": 36,
+ "potret": 37,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 36,
- "naik": 6,
+ "total_potret": 37,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 300.3,
-   "selisih": 33.0
+   "pasar": "onepiece",
+   "nama": "One Piece tcg Card Game 100 Cards Collection Mixed Lot w/ 10 FOILS Included",
+   "ubah": 409.2,
+   "selisih": 65.26
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 9.1,
-   "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 7.3,
-   "selisih": 342.05
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 5.3,
-   "selisih": 1.0
+   "pasar": "onepiece",
+   "nama": "IN HAND One Piece TCG Card - Monkey D. Luffy OP13-001 - Grévin Paris Museum FAST",
+   "ubah": 9.4,
+   "selisih": 17.38
   },
   {
    "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Pillow Punchers (Minimal Wear)",
-   "ubah": 4.9,
-   "selisih": 83.06
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 5.2,
+   "selisih": 139.41
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
+   "ubah": 4.4,
+   "selisih": 120.16
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 2.7,
+   "selisih": 57.91
   }
  ]
 }
