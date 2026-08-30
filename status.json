@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-30T03:27:21+00:00",
+ "waktu": "2026-08-30T16:16:13+00:00",
  "hasil": "berhasil",
- "potret": 38,
+ "potret": 39,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 38,
- "naik": 4,
+ "total_potret": 39,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 9.7,
-   "selisih": 11.0
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 300.3,
+   "selisih": 33.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 8.3,
-   "selisih": 1.0
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+   "ubah": 13.8,
+   "selisih": 318.68
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 4.8,
+   "selisih": 92.9
   },
   {
    "pasar": "cs2",
    "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 2.1,
-   "selisih": 44.38
+   "ubah": 4.1,
+   "selisih": 88.21
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Dragon Lore (Field-Tested)",
-   "ubah": 1.0,
-   "selisih": 64.3
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 3.7,
+   "selisih": 102.76
   }
  ]
 }
