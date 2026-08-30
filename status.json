@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-29T16:22:32+00:00",
+ "waktu": "2026-08-30T03:27:21+00:00",
  "hasil": "berhasil",
- "potret": 37,
+ "potret": 38,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 37,
- "naik": 7,
+ "total_potret": 38,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece tcg Card Game 100 Cards Collection Mixed Lot w/ 10 FOILS Included",
-   "ubah": 409.2,
-   "selisih": 65.26
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 9.7,
+   "selisih": 11.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "IN HAND One Piece TCG Card - Monkey D. Luffy OP13-001 - Grévin Paris Museum FAST",
-   "ubah": 9.4,
-   "selisih": 17.38
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 5.2,
-   "selisih": 139.41
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
+   "ubah": 8.3,
+   "selisih": 1.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Crimson Kimono (Field-Tested)",
-   "ubah": 4.4,
-   "selisih": 120.16
+   "nama": "★ Karambit | Fade (Factory New)",
+   "ubah": 2.1,
+   "selisih": 44.38
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Gamma Doppler (Factory New)",
-   "ubah": 2.7,
-   "selisih": 57.91
+   "nama": "AWP | Dragon Lore (Field-Tested)",
+   "ubah": 1.0,
+   "selisih": 64.3
   }
  ]
 }
