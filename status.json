@@ -1,37 +1,50 @@
 {
- "waktu": "2026-08-31T03:25:12+00:00",
+ "waktu": "2026-08-31T18:55:38+00:00",
  "hasil": "berhasil",
- "potret": 40,
- "barang": 260,
+ "potret": 41,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 40,
- "naik": 3,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 41,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART THE MONSTERS Labubu Hair Salon Series Plush Pendant In Hand US Shipping",
+   "ubah": 22.0,
+   "selisih": 9.0
+  },
+  {
    "pasar": "cs2",
    "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 8.6,
-   "selisih": 135.55
+   "ubah": 7.9,
+   "selisih": 135.54
   },
   {
-   "pasar": "mtg",
-   "nama": "Mishra's Workshop (ATQ)",
-   "ubah": 8.3,
-   "selisih": 249.02
+   "pasar": "cs2",
+   "nama": "★ Specialist Gloves | Emerald Web (Field-Tested)",
+   "ubah": 6.3,
+   "selisih": 198.51
   },
   {
-   "pasar": "mtg",
-   "nama": "Library of Alexandria (ARN)",
-   "ubah": 8.0,
-   "selisih": 145.0
+   "pasar": "cs2",
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 4.6,
+   "selisih": 82.97
   }
  ]
 }
