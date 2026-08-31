@@ -1,7 +1,7 @@
 {
- "waktu": "2026-08-30T16:16:13+00:00",
+ "waktu": "2026-08-31T03:25:12+00:00",
  "hasil": "berhasil",
- "potret": 39,
+ "potret": 40,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 39,
- "naik": 7,
+ "total_potret": 40,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 300.3,
-   "selisih": 33.0
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Doppler (Factory New)",
+   "ubah": 8.6,
+   "selisih": 135.55
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
-   "ubah": 13.8,
-   "selisih": 318.68
+   "pasar": "mtg",
+   "nama": "Mishra's Workshop (ATQ)",
+   "ubah": 8.3,
+   "selisih": 249.02
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 4.8,
-   "selisih": 92.9
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 4.1,
-   "selisih": 88.21
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 3.7,
-   "selisih": 102.76
+   "pasar": "mtg",
+   "nama": "Library of Alexandria (ARN)",
+   "ubah": 8.0,
+   "selisih": 145.0
   }
  ]
 }
