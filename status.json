@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-01T03:25:38+00:00",
+ "waktu": "2026-09-01T16:15:07+00:00",
  "hasil": "berhasil",
- "potret": 42,
- "barang": 260,
+ "potret": 43,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 42,
- "naik": 6,
+ "total_potret": 43,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 300.3,
-   "selisih": 33.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
-   "ubah": 18.2,
-   "selisih": 20.0
+   "pasar": "cs2",
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 23.4,
+   "selisih": 358.86
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 10.3,
-   "selisih": 189.72
-  },
-  {
-   "pasar": "mtg",
-   "nama": "Ravages of War (PTK)",
-   "ubah": 3.1,
-   "selisih": 7.67
+   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+   "ubah": 11.0,
+   "selisih": 291.68
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Marble Fade (Factory New)",
-   "ubah": 1.6,
-   "selisih": 25.28
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 8.4,
+   "selisih": 424.69
+  },
+  {
+   "pasar": "cs2",
+   "nama": "StatTrak™ AK-47 | Vulcan (Factory New)",
+   "ubah": 5.9,
+   "selisih": 110.66
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Slaughter (Minimal Wear)",
+   "ubah": 2.4,
+   "selisih": 37.04
   }
  ]
 }
