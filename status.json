@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-02T02:43:52+00:00",
+ "waktu": "2026-09-02T16:11:22+00:00",
  "hasil": "berhasil",
- "potret": 44,
- "barang": 260,
+ "potret": 45,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 44,
- "naik": 3,
+ "total_potret": 45,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece tcg Card Game 100 Cards Collection Mixed Lot w/ 10 FOILS Included",
-   "ubah": 25.1,
-   "selisih": 4.0
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 238.6,
+   "selisih": 31.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 11.1,
+   "selisih": 277.91
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+   "ubah": 11.0,
+   "selisih": 291.05
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 8.3,
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 9.1,
    "selisih": 1.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Medusa (Field-Tested)",
-   "ubah": 1.1,
-   "selisih": 26.37
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 7.0,
+   "selisih": 131.85
   }
  ]
 }
