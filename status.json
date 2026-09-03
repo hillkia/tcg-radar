@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-03T02:48:44+00:00",
+ "waktu": "2026-09-03T15:59:26+00:00",
  "hasil": "berhasil",
- "potret": 46,
+ "potret": 47,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,21 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 46,
- "naik": 5,
+ "total_potret": 47,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
-   "ubah": 18.2,
-   "selisih": 20.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 8.3,
-   "selisih": 1.0
+   "nama": "Labubu 14th Anniversary Employee Edition Gift Box POP MART",
+   "ubah": 150.0,
+   "selisih": 252.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
-   "ubah": 4.1,
-   "selisih": 84.08
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 3.9,
-   "selisih": 87.91
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 1.9,
-   "selisih": 35.71
+   "nama": "M4A1-S | Knight (Factory New)",
+   "ubah": 1.6,
+   "selisih": 51.2
   }
  ]
 }
