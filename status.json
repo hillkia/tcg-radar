@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-03T15:59:26+00:00",
+ "waktu": "2026-09-04T02:46:58+00:00",
  "hasil": "berhasil",
- "potret": 47,
+ "potret": 48,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,21 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 47,
- "naik": 2,
+ "total_potret": 48,
+ "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "Labubu 14th Anniversary Employee Edition Gift Box POP MART",
-   "ubah": 150.0,
-   "selisih": 252.0
+   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
+   "ubah": 1517.9,
+   "selisih": 182.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
+   "ubah": 18.2,
+   "selisih": 20.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A1-S | Knight (Factory New)",
-   "ubah": 1.6,
-   "selisih": 51.2
+   "nama": "★ StatTrak™ Butterfly Knife",
+   "ubah": 6.3,
+   "selisih": 156.65
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Field-Tested)",
+   "ubah": 5.6,
+   "selisih": 117.3
+  },
+  {
+   "pasar": "cs2",
+   "nama": "Souvenir AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 3.4,
+   "selisih": 58.06
   }
  ]
 }
