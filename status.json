@@ -1,49 +1,50 @@
 {
- "waktu": "2026-09-04T02:46:58+00:00",
+ "waktu": "2026-09-04T15:57:09+00:00",
  "hasil": "berhasil",
- "potret": 48,
- "barang": 260,
+ "potret": 49,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 48,
- "naik": 5,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 49,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 1517.9,
-   "selisih": 182.0
+   "pasar": "onepiece",
+   "nama": "PRESALE Nike x ONE PIECE TCG P-099 Luffy Gear 5 Alt Art Jump Promo Japanese",
+   "ubah": 100.0,
+   "selisih": 200.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
-   "ubah": 18.2,
-   "selisih": 20.0
+   "pasar": "mtg",
+   "nama": "Candelabra of Tawnos (ATQ)",
+   "ubah": 9.6,
+   "selisih": 250.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 5.0,
+   "selisih": 104.53
+  },
+  {
+   "pasar": "cs2",
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 4.9,
+   "selisih": 95.27
   },
   {
    "pasar": "cs2",
    "nama": "★ StatTrak™ Butterfly Knife",
-   "ubah": 6.3,
-   "selisih": 156.65
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Field-Tested)",
-   "ubah": 5.6,
-   "selisih": 117.3
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 3.4,
-   "selisih": 58.06
+   "ubah": 1.0,
+   "selisih": 26.28
   }
  ]
 }
