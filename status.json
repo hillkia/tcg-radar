@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-06T02:46:31+00:00",
+ "waktu": "2026-09-06T15:06:31+00:00",
  "hasil": "berhasil",
- "potret": 52,
+ "potret": 53,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,21 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 52,
- "naik": 4,
+ "total_potret": 53,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Slaughter (Minimal Wear)",
-   "ubah": 2.1,
-   "selisih": 33.44
+   "pasar": "mtg",
+   "nama": "Moat (LEG)",
+   "ubah": 4.0,
+   "selisih": 35.39
   },
   {
    "pasar": "cs2",
    "nama": "★ Butterfly Knife | Slaughter (Factory New)",
-   "ubah": 2.0,
-   "selisih": 30.74
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Factory New)",
-   "ubah": 1.6,
-   "selisih": 57.15
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Factory New)",
-   "ubah": 0.5,
-   "selisih": 26.26
+   "ubah": 2.6,
+   "selisih": 40.11
   }
  ]
 }
