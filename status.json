@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-05T14:47:11+00:00",
+ "waktu": "2026-09-06T02:46:31+00:00",
  "hasil": "berhasil",
- "potret": 51,
+ "potret": 52,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 51,
- "naik": 5,
+ "total_potret": 52,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 300.3,
-   "selisih": 33.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu Mokoko Pop Land Exclusive Limited Figure Select Design NEW",
-   "ubah": 18.8,
-   "selisih": 27.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 9.1,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "IN HAND One Piece TCG Card - Monkey D. Luffy OP13-001 - Grévin Paris Museum",
-   "ubah": 6.0,
-   "selisih": 11.41
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Slaughter (Minimal Wear)",
+   "ubah": 2.1,
+   "selisih": 33.44
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Field-Tested)",
-   "ubah": 4.3,
-   "selisih": 68.38
+   "nama": "★ Butterfly Knife | Slaughter (Factory New)",
+   "ubah": 2.0,
+   "selisih": 30.74
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Factory New)",
+   "ubah": 1.6,
+   "selisih": 57.15
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Hydroponic (Factory New)",
+   "ubah": 0.5,
+   "selisih": 26.26
   }
  ]
 }
