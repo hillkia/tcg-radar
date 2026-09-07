@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-06T15:06:31+00:00",
+ "waktu": "2026-09-07T02:44:47+00:00",
  "hasil": "berhasil",
- "potret": 53,
+ "potret": 54,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,21 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 53,
- "naik": 2,
+ "total_potret": 54,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "mtg",
-   "nama": "Moat (LEG)",
-   "ubah": 4.0,
-   "selisih": 35.39
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy OP09-061 ONE PIECE Tcg Card Game NM PURPLE/BLACK Leader",
+   "ubah": 163.8,
+   "selisih": 3.26
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 44.9,
+   "selisih": 35.89
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Slaughter (Factory New)",
-   "ubah": 2.6,
-   "selisih": 40.11
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 10.2,
+   "selisih": 156.44
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Doppler (Factory New)",
+   "ubah": 8.0,
+   "selisih": 135.88
+  },
+  {
+   "pasar": "cs2",
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 4.4,
+   "selisih": 89.16
   }
  ]
 }
