@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-08T02:55:57+00:00",
+ "waktu": "2026-09-08T16:14:16+00:00",
  "hasil": "berhasil",
- "potret": 56,
- "barang": 220,
+ "potret": 57,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 56,
- "naik": 7,
+ "total_potret": 57,
+ "naik": 12,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 300.3,
-   "selisih": 33.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
+   "ubah": 90.1,
+   "selisih": 71.5
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card Lot 100 AUTHENTIC Cards - Guaranteed Foils + Super Rares!",
+   "ubah": 38.5,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+   "ubah": 9.8,
+   "selisih": 256.97
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
-   "ubah": 18.2,
-   "selisih": 20.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 13.0,
-   "selisih": 236.39
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 6.6,
-   "selisih": 146.4
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Minimal Wear)",
-   "ubah": 4.8,
-   "selisih": 102.88
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 9.1,
+   "selisih": 2.0
   }
  ]
 }
