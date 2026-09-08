@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-07T17:28:55+00:00",
+ "waktu": "2026-09-08T02:55:57+00:00",
  "hasil": "berhasil",
- "potret": 55,
- "barang": 260,
+ "potret": 56,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 55,
- "naik": 5,
+ "total_potret": 56,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 493.3,
-   "selisih": 73.99
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 300.3,
+   "selisih": 33.0
   },
   {
-   "pasar": "mtg",
-   "nama": "Zodiac Dragon (PTK)",
-   "ubah": 10.9,
-   "selisih": 59.5
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 3.0,
-   "selisih": 76.96
+   "pasar": "arttoy",
+   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
+   "ubah": 18.2,
+   "selisih": 20.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 1.7,
-   "selisih": 30.26
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 13.0,
+   "selisih": 236.39
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
-   "ubah": 1.3,
-   "selisih": 29.79
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 6.6,
+   "selisih": 146.4
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Hydroponic (Minimal Wear)",
+   "ubah": 4.8,
+   "selisih": 102.88
   }
  ]
 }
