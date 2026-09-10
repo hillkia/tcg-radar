@@ -1,50 +1,49 @@
 {
- "waktu": "2026-09-09T16:07:37+00:00",
+ "waktu": "2026-09-10T02:56:51+00:00",
  "hasil": "berhasil",
- "potret": 59,
- "barang": 200,
+ "potret": 60,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 502: Bad Gateway (5 percobaan)"
- },
- "total_potret": 59,
+ "mati": {},
+ "total_potret": 60,
  "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 44.9,
-   "selisih": 35.89
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 20.8,
-   "selisih": 5.0
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 6.5,
+   "selisih": 153.76
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 9.8,
-   "selisih": 178.24
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 5.9,
+   "selisih": 101.62
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 2.2,
-   "selisih": 45.25
+   "nama": "★ Bayonet | Doppler (Factory New)",
+   "ubah": 4.8,
+   "selisih": 93.63
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Ali from Cairo (ARN)",
+   "ubah": 4.8,
+   "selisih": 19.85
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Fire Serpent (Factory New)",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
    "ubah": 1.7,
-   "selisih": 45.75
+   "selisih": 40.71
   }
  ]
 }
