@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-11T02:52:03+00:00",
+ "waktu": "2026-09-11T16:04:32+00:00",
  "hasil": "berhasil",
- "potret": 62,
- "barang": 260,
+ "potret": 63,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 62,
- "naik": 6,
+ "total_potret": 63,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 471.8,
-   "selisih": 66.0
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 82.4,
+   "selisih": 65.89
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 72.8,
-   "selisih": 8.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 31.8,
+   "selisih": 7.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 19.1,
-   "selisih": 477.85
+   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
+   "ubah": 13.7,
+   "selisih": 290.93
   },
   {
    "pasar": "cs2",
    "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 6.1,
-   "selisih": 153.77
+   "ubah": 4.8,
+   "selisih": 126.67
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 3.3,
-   "selisih": 161.04
+   "pasar": "arttoy",
+   "nama": "PRESALE POP MART The Attic of Oddities Series Figures US Shipping",
+   "ubah": 3.4,
+   "selisih": 1.0
   }
  ]
 }
