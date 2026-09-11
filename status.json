@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-10T16:01:18+00:00",
+ "waktu": "2026-09-11T02:52:03+00:00",
  "hasil": "berhasil",
- "potret": 61,
- "barang": 240,
+ "potret": 62,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 61,
- "naik": 4,
+ "total_potret": 62,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 31.8,
-   "selisih": 7.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 471.8,
+   "selisih": 66.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 72.8,
+   "selisih": 8.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 3.9,
-   "selisih": 82.16
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 19.1,
+   "selisih": 477.85
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 2.2,
-   "selisih": 48.09
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 6.1,
+   "selisih": 153.77
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 1.9,
-   "selisih": 32.79
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 3.3,
+   "selisih": 161.04
   }
  ]
 }
