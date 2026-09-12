@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-12T02:59:22+00:00",
+ "waktu": "2026-09-12T15:12:08+00:00",
  "hasil": "berhasil",
- "potret": 64,
- "barang": 260,
+ "potret": 65,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,21 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 64,
- "naik": 6,
+ "total_potret": 65,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 27.8,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 22.2,
-   "selisih": 4.0
+   "pasar": "mtg",
+   "nama": "Mishra's Workshop (ATQ)",
+   "ubah": 13.8,
+   "selisih": 450.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 15.0,
-   "selisih": 236.6
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 6.0,
-   "selisih": 182.26
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 1.8,
+   "selisih": 31.46
   }
  ]
 }
