@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-11T16:04:32+00:00",
+ "waktu": "2026-09-12T02:59:22+00:00",
  "hasil": "berhasil",
- "potret": 63,
- "barang": 240,
+ "potret": 64,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 63,
- "naik": 8,
+ "total_potret": 64,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 82.4,
-   "selisih": 65.89
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 368.6,
+   "selisih": 70.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 31.8,
-   "selisih": 7.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 13.7,
-   "selisih": 290.93
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 4.8,
-   "selisih": 126.67
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 27.8,
+   "selisih": 5.0
   },
   {
    "pasar": "arttoy",
-   "nama": "PRESALE POP MART The Attic of Oddities Series Figures US Shipping",
-   "ubah": 3.4,
-   "selisih": 1.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 22.2,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 15.0,
+   "selisih": 236.6
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 6.0,
+   "selisih": 182.26
   }
  ]
 }
