@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-12T15:12:08+00:00",
+ "waktu": "2026-09-13T02:59:08+00:00",
  "hasil": "berhasil",
- "potret": 65,
- "barang": 220,
+ "potret": 66,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,21 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 65,
- "naik": 2,
+ "total_potret": 66,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "mtg",
-   "nama": "Mishra's Workshop (ATQ)",
-   "ubah": 13.8,
-   "selisih": 450.0
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 82.4,
+   "selisih": 65.89
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
+   "ubah": 56.3,
+   "selisih": 52.21
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 1.8,
-   "selisih": 31.46
+   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+   "ubah": 28.0,
+   "selisih": 485.81
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 24.1,
+   "selisih": 776.74
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
+   "ubah": 19.9,
+   "selisih": 30.0
   }
  ]
 }
