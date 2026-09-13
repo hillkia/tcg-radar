@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-13T02:59:08+00:00",
+ "waktu": "2026-09-13T15:47:55+00:00",
  "hasil": "berhasil",
- "potret": 66,
- "barang": 260,
+ "potret": 67,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 66,
- "naik": 9,
+ "total_potret": 67,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 82.4,
-   "selisih": 65.89
+   "pasar": "arttoy",
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 465.4,
+   "selisih": 107.0
   },
   {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 56.3,
-   "selisih": 52.21
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
-   "ubah": 28.0,
-   "selisih": 485.81
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 24.1,
-   "selisih": 776.74
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
-   "ubah": 19.9,
+   "nama": "One Piece TCG Card  OP(01-08) Japanese Sealed Booster Box",
+   "ubah": 33.3,
    "selisih": 30.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "LOVE - POP MART Labubu The Monsters Big Into Energy Series Plush Doll Authentic",
+   "ubah": 25.0,
+   "selisih": 6.4
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "Authentic POPMART MART Labubu Walk by Fortune Collectible Very Rare",
+   "ubah": 20.0,
+   "selisih": 150.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+   "ubah": 14.4,
+   "selisih": 232.83
   }
  ]
 }
