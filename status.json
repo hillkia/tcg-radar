@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-15T03:15:14+00:00",
+ "waktu": "2026-09-15T16:31:07+00:00",
  "hasil": "berhasil",
- "potret": 70,
+ "potret": 71,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 70,
- "naik": 6,
+ "total_potret": 71,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 82.4,
-   "selisih": 65.89
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-08) Japanese Sealed Booster Box",
-   "ubah": 33.3,
-   "selisih": 30.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
-   "ubah": 19.9,
-   "selisih": 30.0
+   "nama": "One Piece TCG Card Sleeves 70 Count - Brand New Sealed",
+   "ubah": 40.1,
+   "selisih": 10.01
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 8.3,
-   "selisih": 416.97
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 4.4,
+   "selisih": 87.21
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 4.1,
-   "selisih": 87.95
+   "nama": "★ StatTrak™ Karambit | Doppler (Factory New)",
+   "ubah": 3.0,
+   "selisih": 58.2
   }
  ]
 }
