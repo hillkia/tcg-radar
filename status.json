@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-14T17:53:00+00:00",
+ "waktu": "2026-09-15T03:15:14+00:00",
  "hasil": "berhasil",
- "potret": 69,
+ "potret": 70,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 69,
- "naik": 4,
+ "total_potret": 70,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "onepiece",
-   "nama": "ONE PIECE TCG x Nike Mera Mera no Mi DON!! Promo Card 2026 English",
-   "ubah": 8.6,
-   "selisih": 20.0
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 82.4,
+   "selisih": 65.89
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-08) Japanese Sealed Booster Box",
+   "ubah": 33.3,
+   "selisih": 30.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
+   "ubah": 19.9,
+   "selisih": 30.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 7.7,
-   "selisih": 142.61
-  },
-  {
-   "pasar": "mtg",
-   "nama": "Chains of Mephistopheles (LEG)",
-   "ubah": 3.7,
-   "selisih": 44.19
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 8.3,
+   "selisih": 416.97
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 2.9,
-   "selisih": 53.8
+   "nama": "★ Karambit | Fade (Factory New)",
+   "ubah": 4.1,
+   "selisih": 87.95
   }
  ]
 }
