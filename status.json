@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-16T16:23:29+00:00",
+ "waktu": "2026-09-17T03:16:32+00:00",
  "hasil": "berhasil",
- "potret": 73,
- "barang": 240,
+ "potret": 74,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 73,
- "naik": 3,
+ "total_potret": 74,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "PREORDER! Nike x ONE PIECE TCG 4-Card Set P-099 Luffy 3 DON!! Shonen Jump 1/27!",
-   "ubah": 28.7,
-   "selisih": 27.23
+   "pasar": "arttoy",
+   "nama": "AUTHENTIC POP MART SITTING PUMPKIN LABUBU-BRAND NEW-US SELLER",
+   "ubah": 99.5,
+   "selisih": 19.89
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 45.5,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 23.6,
+   "selisih": 21.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 14.3,
-   "selisih": 219.5
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 1.6,
-   "selisih": 34.51
+   "nama": "M4A4 | Howl (Minimal Wear)",
+   "ubah": 7.2,
+   "selisih": 407.83
   }
  ]
 }
