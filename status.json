@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-18T03:03:22+00:00",
+ "waktu": "2026-09-18T16:02:00+00:00",
  "hasil": "berhasil",
- "potret": 76,
- "barang": 220,
+ "potret": 77,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 76,
- "naik": 6,
+ "total_potret": 77,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 23.6,
-   "selisih": 21.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 38.9,
+   "selisih": 7.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 21.4,
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 30.0,
    "selisih": 3.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 8.5,
-   "selisih": 235.91
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 22.7,
+   "selisih": 5.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 7.9,
-   "selisih": 144.96
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 3.8,
-   "selisih": 81.88
+   "pasar": "mtg",
+   "nama": "Zodiac Dragon (PTK)",
+   "ubah": 16.0,
+   "selisih": 96.49
   }
  ]
 }
