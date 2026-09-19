@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-19T02:59:40+00:00",
+ "waktu": "2026-09-19T15:33:42+00:00",
  "hasil": "berhasil",
- "potret": 78,
- "barang": 260,
+ "potret": 79,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 78,
- "naik": 10,
+ "total_potret": 79,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 40.0,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 35.4,
-   "selisih": 571.85
-  },
-  {
-   "pasar": "cs2",
-   "nama": "Souvenir AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 16.6,
-   "selisih": 290.44
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card Sleeves 70 Count - Brand New Sealed",
+   "ubah": 40.1,
+   "selisih": 10.01
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 14.3,
-   "selisih": 2.0
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 27.8,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "PopMart Labubu V4 The Monsters Pin for Love Series Plush Pendant (A-Z, &SECRET)",
+   "ubah": 15.8,
+   "selisih": 3.0
   }
  ]
 }
