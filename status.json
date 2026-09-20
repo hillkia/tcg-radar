@@ -1,8 +1,8 @@
 {
- "waktu": "2026-09-20T03:14:39+00:00",
+ "waktu": "2026-09-20T15:39:53+00:00",
  "hasil": "berhasil",
- "potret": 80,
- "barang": 260,
+ "potret": 81,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 80,
- "naik": 5,
+ "total_potret": 81,
+ "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 450.2,
-   "selisih": 90.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 66.7,
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
    "selisih": 6.0
   },
   {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 34.1,
+   "selisih": 530.55
+  },
+  {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 31.3,
-   "selisih": 25.0
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
+   "ubah": 33.7,
+   "selisih": 23.39
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 30.8,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Gamma Doppler (Factory New)",
-   "ubah": 1.4,
-   "selisih": 25.82
+   "nama": "AK-47 | Hydroponic (Field-Tested)",
+   "ubah": 8.8,
+   "selisih": 134.56
   }
  ]
 }
