@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-22T03:10:25+00:00",
+ "waktu": "2026-09-22T16:31:07+00:00",
  "hasil": "berhasil",
- "potret": 84,
+ "potret": 85,
  "barang": 220,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 84,
- "naik": 4,
+ "total_potret": 85,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 30.8,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 24.9,
+   "selisih": 19.89
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 23.6,
+   "selisih": 21.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 40.0,
-   "selisih": 4.0
+   "ubah": 14.3,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 4.6,
-   "selisih": 101.49
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Field-Tested)",
-   "ubah": 2.1,
-   "selisih": 34.35
+   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+   "ubah": 12.7,
+   "selisih": 235.02
   }
  ]
 }
