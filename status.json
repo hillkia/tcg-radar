@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-21T17:59:41+00:00",
+ "waktu": "2026-09-22T03:10:25+00:00",
  "hasil": "berhasil",
- "potret": 83,
+ "potret": 84,
  "barang": 220,
  "hidup": [
   "pokemon",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 83,
- "naik": 7,
+ "total_potret": 84,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 66.7,
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
    "selisih": 6.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 32.8,
-   "selisih": 21.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 30.8,
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 40.0,
    "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 15.5,
-   "selisih": 319.07
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 4.6,
+   "selisih": 101.49
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 5.1,
-   "selisih": 5.11
+   "pasar": "cs2",
+   "nama": "AK-47 | Hydroponic (Field-Tested)",
+   "ubah": 2.1,
+   "selisih": 34.35
   }
  ]
 }
