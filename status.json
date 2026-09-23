@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-23T03:09:51+00:00",
+ "waktu": "2026-09-23T16:20:49+00:00",
  "hasil": "berhasil",
- "potret": 86,
+ "potret": 87,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 86,
- "naik": 13,
+ "total_potret": 87,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Coca Cola Coke Series Confirmed Figure (Sealed Bag)",
-   "ubah": 1067.6,
-   "selisih": 128.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "PopMart Labubu V4 The Monsters Pin for Love Series Plush Pendant (A-Z, &SECRET)",
-   "ubah": 200.1,
-   "selisih": 38.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "Pop Mart Labubu Halloween Sitting Pumpkin Vinyl Plush Pendant Sealed NEW USA",
-   "ubah": 44.8,
-   "selisih": 13.0
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 24.9,
+   "selisih": 19.89
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 11.1,
+   "selisih": 275.64
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 32.8,
-   "selisih": 21.0
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 9.3,
+   "selisih": 425.87
   }
  ]
 }
