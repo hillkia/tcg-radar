@@ -1,49 +1,44 @@
 {
- "waktu": "2026-09-23T16:20:49+00:00",
+ "waktu": "2026-09-24T03:01:02+00:00",
  "hasil": "berhasil",
- "potret": 87,
- "barang": 260,
+ "potret": 88,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 87,
- "naik": 8,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 88,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 27.3,
+   "selisih": 3.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 24.9,
-   "selisih": 19.89
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 14.3,
+   "selisih": 3.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 11.1,
-   "selisih": 275.64
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 10.4,
+   "selisih": 218.93
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 9.3,
-   "selisih": 425.87
+   "nama": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+   "ubah": 2.4,
+   "selisih": 54.02
   }
  ]
 }
