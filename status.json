@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-25T03:17:42+00:00",
+ "waktu": "2026-09-25T16:47:37+00:00",
  "hasil": "berhasil",
- "potret": 90,
+ "potret": 91,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 90,
+ "total_potret": 91,
  "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 33.8,
-   "selisih": 23.47
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 21.4,
-   "selisih": 3.0
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 130.9,
+   "selisih": 17.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 66.7,
+   "selisih": 6.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 3.5,
-   "selisih": 96.61
+   "nama": "M4A4 | Howl (Minimal Wear)",
+   "ubah": 6.2,
+   "selisih": 329.98
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 2.6,
-   "selisih": 71.07
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 6.0,
+   "selisih": 95.61
   }
  ]
 }
