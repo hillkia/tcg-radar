@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-25T16:47:37+00:00",
+ "waktu": "2026-09-26T03:22:32+00:00",
  "hasil": "berhasil",
- "potret": 91,
+ "potret": 92,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 91,
- "naik": 5,
+ "total_potret": 92,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 130.9,
-   "selisih": 17.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 66.7,
-   "selisih": 6.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 6.2,
-   "selisih": 329.98
+   "nama": "AK-47 | Hydroponic (Minimal Wear)",
+   "ubah": 11.4,
+   "selisih": 223.11
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 6.0,
-   "selisih": 95.61
+   "nama": "AWP | LongDog (Factory New)",
+   "ubah": 10.3,
+   "selisih": 158.09
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Field-Tested)",
+   "ubah": 10.1,
+   "selisih": 201.46
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
+   "ubah": 7.7,
+   "selisih": 1.0
   }
  ]
 }
