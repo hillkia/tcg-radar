@@ -1,50 +1,49 @@
 {
- "waktu": "2026-09-27T03:31:23+00:00",
+ "waktu": "2026-09-27T16:36:06+00:00",
  "hasil": "berhasil",
- "potret": 94,
- "barang": 200,
+ "potret": 95,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: The read operation timed out (5 percobaan)"
- },
- "total_potret": 94,
- "naik": 6,
+ "mati": {},
+ "total_potret": 95,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 23.6,
-   "selisih": 21.0
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 87.6,
+   "selisih": 14.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
-   "ubah": 20.0,
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
+   "ubah": 24.9,
+   "selisih": 19.89
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 21.4,
    "selisih": 3.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 15.5,
-   "selisih": 317.39
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 11.1,
-   "selisih": 2.0
   }
  ]
 }
