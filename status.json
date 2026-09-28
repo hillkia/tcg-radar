@@ -1,50 +1,49 @@
 {
- "waktu": "2026-09-28T03:28:25+00:00",
+ "waktu": "2026-09-28T19:23:15+00:00",
  "hasil": "berhasil",
- "potret": 96,
- "barang": 200,
+ "potret": 97,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
- },
- "total_potret": 96,
- "naik": 6,
+ "mati": {},
+ "total_potret": 97,
+ "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 479.2,
-   "selisih": 91.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 400.2,
+   "selisih": 68.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "Sticker | Astralis (Holo) | Stockholm 2021",
+   "ubah": 92.2,
+   "selisih": 3262.1
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
-   "ubah": 38.5,
-   "selisih": 5.0
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 76.5,
+   "selisih": 13.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 37.5,
-   "selisih": 9.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Flame Flame Fruit Don!! Promotion Card Premium Card Collection",
-   "ubah": 6.4,
-   "selisih": 6.6
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 17.5,
+   "selisih": 304.72
   }
  ]
 }
