@@ -1,49 +1,50 @@
 {
- "waktu": "2026-09-27T16:36:06+00:00",
+ "waktu": "2026-09-28T03:28:25+00:00",
  "hasil": "berhasil",
- "potret": 95,
- "barang": 260,
+ "potret": 96,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 95,
- "naik": 9,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 96,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 87.6,
-   "selisih": 14.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
+   "ubah": 38.5,
+   "selisih": 5.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 37.5,
+   "selisih": 9.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
   },
   {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in stock OP01-16",
-   "ubah": 24.9,
-   "selisih": 19.89
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 21.4,
-   "selisih": 3.0
+   "nama": "One Piece TCG Flame Flame Fruit Don!! Promotion Card Premium Card Collection",
+   "ubah": 6.4,
+   "selisih": 6.6
   }
  ]
 }
