@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-29T17:49:25+00:00",
+ "waktu": "2026-09-30T03:50:52+00:00",
  "hasil": "berhasil",
- "potret": 99,
+ "potret": 100,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 99,
- "naik": 8,
+ "total_potret": 100,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 33.7,
-   "selisih": 23.39
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "arttoy",
-   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 27.8,
-   "selisih": 5.0
+   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
+   "ubah": 28.6,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 16.2,
-   "selisih": 324.35
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 12.5,
+   "selisih": 501.58
   },
   {
-   "pasar": "cs2",
-   "nama": "AK-47 | Hydroponic (Minimal Wear)",
-   "ubah": 15.5,
-   "selisih": 338.32
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 7.7,
+   "selisih": 1.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
+   "ubah": 5.0,
+   "selisih": 1.09
   }
  ]
 }
