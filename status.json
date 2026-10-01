@@ -1,7 +1,7 @@
 {
- "waktu": "2026-09-30T17:45:06+00:00",
+ "waktu": "2026-10-01T03:59:02+00:00",
  "hasil": "berhasil",
- "potret": 101,
+ "potret": 102,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 101,
- "naik": 7,
+ "total_potret": 102,
+ "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 400.4,
-   "selisih": 40.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 325.2,
-   "selisih": 65.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 21.4,
-   "selisih": 3.0
-  },
-  {
    "pasar": "onepiece",
-   "nama": "Monkey.D.Luffy Grevin - One Piece TCG - French Promo Card - Grevin Museum 2026",
-   "ubah": 12.0,
-   "selisih": 15.0
+   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
+   "ubah": 115.1,
+   "selisih": 8.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 87.6,
+   "selisih": 14.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 11.1,
-   "selisih": 501.57
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 39.2,
+   "selisih": 743.24
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 23.1,
+   "selisih": 3.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 14.3,
+   "selisih": 3.0
   }
  ]
 }
