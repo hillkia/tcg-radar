@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-02T03:55:28+00:00",
+ "waktu": "2026-10-02T17:36:53+00:00",
  "hasil": "berhasil",
- "potret": 104,
+ "potret": 105,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 104,
- "naik": 6,
+ "total_potret": 105,
+ "naik": 13,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 130.9,
-   "selisih": 17.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy P-099 Alt Art 4th Anniversary Promo - One Piece TCG English Card",
+   "ubah": 60.0,
+   "selisih": 20.99
   },
   {
    "pasar": "onepiece",
    "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 33.7,
-   "selisih": 23.39
+   "ubah": 56.3,
+   "selisih": 52.21
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 7.7,
-   "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 4.4,
-   "selisih": 116.34
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 2.7,
-   "selisih": 56.57
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 40.0,
+   "selisih": 4.0
   }
  ]
 }
