@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-03T03:40:07+00:00",
+ "waktu": "2026-10-03T15:54:03+00:00",
  "hasil": "berhasil",
- "potret": 106,
- "barang": 260,
+ "potret": 107,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 106,
+ "total_potret": 107,
  "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
-   "ubah": 115.1,
-   "selisih": 8.0
-  },
-  {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 30.8,
-   "selisih": 4.0
+   "ubah": 76.5,
+   "selisih": 13.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 23.1,
-   "selisih": 3.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 32.8,
+   "selisih": 21.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 15.4,
    "selisih": 2.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "Pop Mart Labubu The Monsters Zimomo Angel in Clouds Vinyl Face Doll New Open Box",
+   "ubah": 12.5,
+   "selisih": 25.0
   }
  ]
 }
