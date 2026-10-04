@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-03T15:54:03+00:00",
+ "waktu": "2026-10-04T04:10:17+00:00",
  "hasil": "berhasil",
- "potret": 107,
- "barang": 220,
+ "potret": 108,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 107,
- "naik": 7,
+ "total_potret": 108,
+ "naik": 12,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "PSL DON!! Card World United Nami Usopp One Piece TCG Promotion Cards",
+   "ubah": 18.4,
+   "selisih": 7.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 32.8,
-   "selisih": 21.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 15.4,
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 14.3,
    "selisih": 2.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "Pop Mart Labubu The Monsters Zimomo Angel in Clouds Vinyl Face Doll New Open Box",
-   "ubah": 12.5,
-   "selisih": 25.0
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 6.2,
+   "selisih": 132.65
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "PSL DON!! Card World United Luffy Zoro Nami Usopp One Piece TCG Promotion Cards",
+   "ubah": 6.2,
+   "selisih": 4.0
   }
  ]
 }
