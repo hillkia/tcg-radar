@@ -1,50 +1,49 @@
 {
- "waktu": "2026-10-05T03:54:41+00:00",
+ "waktu": "2026-10-05T20:20:00+00:00",
  "hasil": "berhasil",
- "potret": 110,
- "barang": 200,
+ "potret": 111,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
- },
- "total_potret": 110,
- "naik": 9,
+ "mati": {},
+ "total_potret": 111,
+ "naik": 13,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 40.0,
-   "selisih": 4.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "onepiece",
-   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
-   "ubah": 5.0,
-   "selisih": 1.09
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
+   "ubah": 109.0,
+   "selisih": 75.6
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
+   "ubah": 53.4,
+   "selisih": 8.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 43.5,
+   "selisih": 10.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+   "ubah": 30.4,
+   "selisih": 451.12
   }
  ]
 }
