@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-04T16:36:56+00:00",
+ "waktu": "2026-10-05T03:54:41+00:00",
  "hasil": "berhasil",
- "potret": 109,
- "barang": 240,
+ "potret": 110,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 109,
- "naik": 6,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 110,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "• Monkey.D.Luffy • P-041 Alt Art Gear 5 Promo Card One Piece TCG NM",
-   "ubah": 90.1,
-   "selisih": 9.0
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 368.6,
+   "selisih": 70.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 76.5,
+   "selisih": 13.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 40.0,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
    "ubah": 16.7,
    "selisih": 2.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "Pop Mart Labubu The Monsters Zimomo Angel in Clouds Vinyl Face Doll New Open Box",
-   "ubah": 12.5,
-   "selisih": 25.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
-   "ubah": 4.5,
-   "selisih": 85.11
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Arid (Field-Tested)",
-   "ubah": 3.5,
-   "selisih": 52.09
+   "pasar": "onepiece",
+   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
+   "ubah": 5.0,
+   "selisih": 1.09
   }
  ]
 }
