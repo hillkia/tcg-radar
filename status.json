@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-05T20:20:00+00:00",
+ "waktu": "2026-10-06T04:43:10+00:00",
  "hasil": "berhasil",
- "potret": 111,
- "barang": 260,
+ "potret": 112,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 111,
- "naik": 13,
+ "total_potret": 112,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 109.0,
-   "selisih": 75.6
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
-   "ubah": 53.4,
-   "selisih": 8.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 43.5,
-   "selisih": 10.0
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 40.0,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 30.4,
-   "selisih": 451.12
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 16.5,
+   "selisih": 281.17
   }
  ]
 }
