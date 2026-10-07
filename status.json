@@ -1,50 +1,43 @@
 {
- "waktu": "2026-10-07T04:09:04+00:00",
+ "waktu": "2026-10-07T18:36:16+00:00",
  "hasil": "berhasil",
- "potret": 114,
- "barang": 200,
+ "potret": 115,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
- },
- "total_potret": 114,
- "naik": 6,
+ "mati": {},
+ "total_potret": 115,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 629.8,
-   "selisih": 107.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 21.4,
-   "selisih": 3.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 7.7,
-   "selisih": 1.0
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 57.2,
+   "selisih": 8.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 1.5,
-   "selisih": 26.31
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 3.9,
+   "selisih": 84.51
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife",
+   "ubah": 2.0,
+   "selisih": 31.59
   }
  ]
 }
