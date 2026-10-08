@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-07T18:36:16+00:00",
+ "waktu": "2026-10-08T04:21:09+00:00",
  "hasil": "berhasil",
- "potret": 115,
+ "potret": 116,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,21 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 115,
- "naik": 4,
+ "total_potret": 116,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 57.2,
-   "selisih": 8.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 3.9,
-   "selisih": 84.51
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 2.0,
-   "selisih": 31.59
+   "nama": "★ StatTrak™ Butterfly Knife | Fade (Factory New)",
+   "ubah": 5.1,
+   "selisih": 115.53
   }
  ]
 }
