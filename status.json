@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-08T04:21:09+00:00",
+ "waktu": "2026-10-08T18:35:12+00:00",
  "hasil": "berhasil",
- "potret": 116,
+ "potret": 117,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,21 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 116,
- "naik": 2,
+ "total_potret": 117,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 40.0,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 23.6,
+   "selisih": 21.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
+   "ubah": 22.4,
+   "selisih": 4.21
   },
   {
    "pasar": "cs2",
-   "nama": "★ StatTrak™ Butterfly Knife | Fade (Factory New)",
-   "ubah": 5.1,
-   "selisih": 115.53
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 18.5,
+   "selisih": 314.81
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Juzám Djinn (ARN)",
+   "ubah": 15.7,
+   "selisih": 286.5
   }
  ]
 }
