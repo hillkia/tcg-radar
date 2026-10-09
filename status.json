@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-08T18:35:12+00:00",
+ "waktu": "2026-10-09T04:25:46+00:00",
  "hasil": "berhasil",
- "potret": 117,
+ "potret": 118,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 117,
+ "total_potret": 118,
  "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 40.0,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 23.6,
-   "selisih": 21.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 37.5,
+   "selisih": 9.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
-   "ubah": 22.4,
-   "selisih": 4.21
+   "pasar": "arttoy",
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 27.8,
+   "selisih": 5.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 18.5,
-   "selisih": 314.81
+   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
+   "ubah": 18.1,
+   "selisih": 417.28
   },
   {
-   "pasar": "mtg",
-   "nama": "Juzám Djinn (ARN)",
-   "ubah": 15.7,
-   "selisih": 286.5
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 10.0,
+   "selisih": 1.0
   }
  ]
 }
