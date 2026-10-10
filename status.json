@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-10T04:11:19+00:00",
+ "waktu": "2026-10-10T17:05:35+00:00",
  "hasil": "berhasil",
- "potret": 120,
+ "potret": 121,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 120,
- "naik": 5,
+ "total_potret": 121,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 16.7,
-   "selisih": 3.0
+   "ubah": 185.8,
+   "selisih": 39.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
+   "ubah": 109.0,
+   "selisih": 75.6
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
-   "ubah": 4.3,
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 76.5,
+   "selisih": 13.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 33.4,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
+   "ubah": 7.1,
    "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
-   "ubah": 4.0,
-   "selisih": 90.32
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Gamma Doppler (Factory New)",
-   "ubah": 2.0,
-   "selisih": 34.51
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 1.4,
-   "selisih": 34.45
   }
  ]
 }
