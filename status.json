@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-10T17:05:35+00:00",
+ "waktu": "2026-10-11T03:49:16+00:00",
  "hasil": "berhasil",
- "potret": 121,
+ "potret": 122,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 121,
- "naik": 8,
+ "total_potret": 122,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 185.8,
-   "selisih": 39.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 109.0,
-   "selisih": 75.6
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 33.4,
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
    "selisih": 4.0
   },
   {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+   "ubah": 38.2,
+   "selisih": 532.56
+  },
+  {
    "pasar": "arttoy",
-   "nama": "POP MART The Attic of Oddities Series Confirmed Figure Sealed Bag in Open Box",
-   "ubah": 7.1,
-   "selisih": 1.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Seriers Plush Pendant Dolls in Open Box",
+   "ubah": 14.3,
+   "selisih": 3.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 13.7,
+   "selisih": 314.69
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "IN HAND One Piece TCG Card – Monkey D. Luffy OP13-001 – Grévin Paris Museum",
+   "ubah": 11.1,
+   "selisih": 14.0
   }
  ]
 }
