@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-12T04:10:48+00:00",
+ "waktu": "2026-10-12T21:02:17+00:00",
  "hasil": "berhasil",
- "potret": 124,
- "barang": 260,
+ "potret": 125,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 124,
- "naik": 7,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 125,
+ "naik": 12,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 520.3,
+   "selisih": 104.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
+   "ubah": 109.0,
+   "selisih": 75.58
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Minimal Wear)",
+   "ubah": 18.3,
+   "selisih": 312.46
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 33.4,
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 16.7,
    "selisih": 3.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Doppler (Factory New)",
-   "ubah": 19.7,
-   "selisih": 286.56
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 12.5,
-   "selisih": 252.5
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 7.7,
-   "selisih": 1.0
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 13.7,
+   "selisih": 315.21
   }
  ]
 }
