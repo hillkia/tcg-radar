@@ -1,50 +1,31 @@
 {
- "waktu": "2026-10-12T21:02:17+00:00",
+ "waktu": "2026-10-13T05:20:12+00:00",
  "hasil": "berhasil",
- "potret": 125,
- "barang": 200,
+ "potret": 126,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
- },
- "total_potret": 125,
- "naik": 12,
+ "mati": {},
+ "total_potret": 126,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 520.3,
-   "selisih": 104.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 304.9,
+   "selisih": 64.0
   },
   {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 109.0,
-   "selisih": 75.58
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Minimal Wear)",
-   "ubah": 18.3,
-   "selisih": 312.46
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "nama": "IN HAND One Piece TCG Card – Monkey D. Luffy OP13-001 – Grévin Paris Museum",
    "ubah": 16.7,
-   "selisih": 3.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 13.7,
-   "selisih": 315.21
+   "selisih": 20.0
   }
  ]
 }
