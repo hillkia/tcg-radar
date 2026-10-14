@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-14T03:25:37+00:00",
+ "waktu": "2026-10-14T16:45:22+00:00",
  "hasil": "berhasil",
- "potret": 128,
- "barang": 240,
+ "potret": 129,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 128,
- "naik": 7,
+ "total_potret": 129,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 479.2,
-   "selisih": 91.0
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
+   "ubah": 39.3,
+   "selisih": 51.0
   },
   {
    "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 74.6,
-   "selisih": 51.78
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 27.3,
-   "selisih": 3.0
+   "nama": "IN HAND One Piece TCG Card – Monkey D. Luffy OP13-001 – Grévin Paris Museum",
+   "ubah": 16.7,
+   "selisih": 20.0
   },
   {
    "pasar": "mtg",
-   "nama": "The Abyss (LEG)",
-   "ubah": 10.9,
-   "selisih": 76.27
+   "nama": "Ali from Cairo (ARN)",
+   "ubah": 10.0,
+   "selisih": 41.1
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 7.1,
+   "selisih": 431.08
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 3.3,
+   "selisih": 73.43
   }
  ]
 }
