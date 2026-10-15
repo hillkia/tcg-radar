@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-14T16:45:22+00:00",
+ "waktu": "2026-10-15T03:03:46+00:00",
  "hasil": "berhasil",
- "potret": 129,
- "barang": 260,
+ "potret": 130,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 129,
+ "total_potret": 130,
  "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
-   "ubah": 39.3,
-   "selisih": 51.0
+   "pasar": "arttoy",
+   "nama": "Authentic POP MART LABUBU THE MONSTERS Wacky Mart Series Confirmed Figure Toy",
+   "ubah": 997.8,
+   "selisih": 184.5
   },
   {
-   "pasar": "onepiece",
-   "nama": "IN HAND One Piece TCG Card – Monkey D. Luffy OP13-001 – Grévin Paris Museum",
-   "ubah": 16.7,
-   "selisih": 20.0
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
+   "ubah": 100.0,
+   "selisih": 23.0
   },
   {
-   "pasar": "mtg",
-   "nama": "Ali from Cairo (ARN)",
-   "ubah": 10.0,
-   "selisih": 41.1
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 27.8,
+   "selisih": 5.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 7.1,
-   "selisih": 431.08
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 3.3,
-   "selisih": 73.43
+   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+   "ubah": 10.3,
+   "selisih": 510.21
   }
  ]
 }
