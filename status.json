@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-15T03:03:46+00:00",
+ "waktu": "2026-10-15T16:31:09+00:00",
  "hasil": "berhasil",
- "potret": 130,
- "barang": 220,
+ "potret": 131,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 130,
- "naik": 8,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 502: Bad Gateway (5 percobaan)"
+ },
+ "total_potret": 131,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "Authentic POP MART LABUBU THE MONSTERS Wacky Mart Series Confirmed Figure Toy",
-   "ubah": 997.8,
-   "selisih": 184.5
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 233.5,
+   "selisih": 42.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 100.0,
-   "selisih": 23.0
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 42.9,
+   "selisih": 6.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Card  Booster BOX Collection OPK EBK Series OP Korean Version OPK",
+   "ubah": 39.3,
+   "selisih": 51.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "Pop Mart Labubu The Monsters Zimomo Angel In Clouds 58cm Vinyl Plush Figure New",
+   "ubah": 5.3,
+   "selisih": 9.95
   },
   {
-   "pasar": "arttoy",
-   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 27.8,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
-   "ubah": 10.3,
-   "selisih": 510.21
+   "pasar": "mtg",
+   "nama": "Drop of Honey (ARN)",
+   "ubah": 4.2,
+   "selisih": 21.52
   }
  ]
 }
