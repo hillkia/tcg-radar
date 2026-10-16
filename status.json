@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-16T03:00:41+00:00",
+ "waktu": "2026-10-16T16:16:09+00:00",
  "hasil": "berhasil",
- "potret": 132,
- "barang": 220,
+ "potret": 133,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 132,
- "naik": 8,
+ "total_potret": 133,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Fruit Series Figure Sealed Bag in Open Box",
-   "ubah": 724.0,
-   "selisih": 123.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 490.7,
+   "selisih": 103.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 28.6,
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 233.5,
+   "selisih": 42.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 87.6,
+   "selisih": 14.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
    "selisih": 6.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 16.7,
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 30.0,
    "selisih": 3.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "Authentic POP MART LABUBU THE MONSTERS Wacky Mart Series Confirmed Figure Toy",
-   "ubah": 5.4,
-   "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 3.2,
-   "selisih": 44.96
   }
  ]
 }
