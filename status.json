@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-17T02:52:51+00:00",
+ "waktu": "2026-10-17T15:10:38+00:00",
  "hasil": "berhasil",
- "potret": 134,
+ "potret": 135,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 134,
- "naik": 6,
+ "total_potret": 135,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
-  },
-  {
-   "pasar": "arttoy",
    "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 27.8,
-   "selisih": 5.0
+   "ubah": 465.4,
+   "selisih": 107.0
   },
   {
    "pasar": "arttoy",
-   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
-   "ubah": 12.5,
-   "selisih": 3.5
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 233.5,
+   "selisih": 42.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 9.5,
-   "selisih": 2.0
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 42.9,
+   "selisih": 6.0
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Nether Void (LEG)",
+   "ubah": 29.8,
+   "selisih": 154.53
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 2.3,
-   "selisih": 56.74
+   "nama": "★ Moto Gloves | Spearmint (Field-Tested)",
+   "ubah": 18.8,
+   "selisih": 399.09
   }
  ]
 }
