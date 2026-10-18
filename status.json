@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-17T15:10:38+00:00",
+ "waktu": "2026-10-18T02:54:00+00:00",
  "hasil": "berhasil",
- "potret": 135,
+ "potret": 136,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 135,
- "naik": 8,
+ "total_potret": 136,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 465.4,
-   "selisih": 107.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 233.5,
-   "selisih": 42.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 42.9,
-   "selisih": 6.0
-  },
-  {
-   "pasar": "mtg",
-   "nama": "Nether Void (LEG)",
-   "ubah": 29.8,
-   "selisih": 154.53
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Moto Gloves | Spearmint (Field-Tested)",
-   "ubah": 18.8,
-   "selisih": 399.09
+   "nama": "M4A4 | Howl (Field-Tested)",
+   "ubah": 1.9,
+   "selisih": 89.08
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Medusa (Field-Tested)",
+   "ubah": 1.2,
+   "selisih": 28.47
   }
  ]
 }
