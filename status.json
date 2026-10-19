@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-19T03:08:06+00:00",
+ "waktu": "2026-10-19T18:28:39+00:00",
  "hasil": "berhasil",
- "potret": 138,
+ "potret": 139,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 138,
- "naik": 4,
+ "total_potret": 139,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 23.6,
-   "selisih": 21.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 21.4,
-   "selisih": 3.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
+  },
+  {
+   "pasar": "mtg",
+   "nama": "The Tabernacle at Pendrell Vale (LEG)",
+   "ubah": 73.5,
+   "selisih": 1372.5
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 7.7,
-   "selisih": 1.0
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
-   "ubah": 4.8,
-   "selisih": 113.88
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 7.9,
+   "selisih": 109.52
   }
  ]
 }
