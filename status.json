@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-20T03:16:50+00:00",
+ "waktu": "2026-10-20T16:31:31+00:00",
  "hasil": "berhasil",
- "potret": 140,
+ "potret": 141,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 140,
- "naik": 4,
+ "total_potret": 141,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 40.0,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 30.0,
+   "selisih": 3.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 9.5,
-   "selisih": 2.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 23.6,
+   "selisih": 21.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 11.1,
+   "selisih": 1.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 8.3,
+   "ubah": 7.7,
    "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "M4A1-S | Welcome to the Jungle (Minimal Wear)",
-   "ubah": 3.8,
-   "selisih": 58.44
   }
  ]
 }
