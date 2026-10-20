@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-19T18:28:39+00:00",
+ "waktu": "2026-10-20T03:16:50+00:00",
  "hasil": "berhasil",
- "potret": 139,
+ "potret": 140,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 139,
- "naik": 8,
+ "total_potret": 140,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 40.0,
+   "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "mtg",
-   "nama": "The Tabernacle at Pendrell Vale (LEG)",
-   "ubah": 73.5,
-   "selisih": 1372.5
+   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
+   "ubah": 9.5,
+   "selisih": 2.0
   },
   {
    "pasar": "arttoy",
-   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
-   "ubah": 12.5,
-   "selisih": 3.5
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 8.3,
+   "selisih": 1.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 7.9,
-   "selisih": 109.52
+   "nama": "M4A1-S | Welcome to the Jungle (Minimal Wear)",
+   "ubah": 3.8,
+   "selisih": 58.44
   }
  ]
 }
