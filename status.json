@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-21T16:48:27+00:00",
+ "waktu": "2026-10-22T03:10:12+00:00",
  "hasil": "berhasil",
- "potret": 143,
+ "potret": 144,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 143,
- "naik": 10,
+ "total_potret": 144,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "Authentic POP MART LABUBU THE MONSTERS Wacky Mart Series Confirmed Figure Toy",
-   "ubah": 997.8,
-   "selisih": 184.5
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 255.7,
-   "selisih": 46.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "onepiece",
-   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
-   "ubah": 115.1,
-   "selisih": 8.0
+   "nama": "One Piece Trading Card 36 Pack Deluxe Booster Box Anime TCG OPFI06-01 NEW Sealed",
+   "ubah": 41.2,
+   "selisih": 7.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Talon Knife | Doppler (Factory New)",
+   "ubah": 8.4,
+   "selisih": 242.54
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 7.7,
+   "selisih": 1.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 3.9,
+   "selisih": 90.18
   }
  ]
 }
