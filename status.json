@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-22T03:10:12+00:00",
+ "waktu": "2026-10-22T16:48:46+00:00",
  "hasil": "berhasil",
- "potret": 144,
+ "potret": 145,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 144,
- "naik": 7,
+ "total_potret": 145,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 479.2,
-   "selisih": 91.0
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy OP09-061 ONE PIECE Tcg Card Game NM PURPLE/BLACK Leader",
+   "ubah": 923.1,
+   "selisih": 18.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece Trading Card 36 Pack Deluxe Booster Box Anime TCG OPFI06-01 NEW Sealed",
-   "ubah": 41.2,
-   "selisih": 7.0
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 269.7,
+   "selisih": 62.0
   },
   {
    "pasar": "cs2",
    "nama": "★ Talon Knife | Doppler (Factory New)",
-   "ubah": 8.4,
-   "selisih": 242.54
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 7.7,
-   "selisih": 1.0
+   "ubah": 8.1,
+   "selisih": 251.51
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 3.9,
-   "selisih": 90.18
+   "nama": "★ Karambit | Gamma Doppler (Factory New)",
+   "ubah": 5.7,
+   "selisih": 102.95
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Bayonet | Doppler (Factory New)",
+   "ubah": 4.4,
+   "selisih": 61.46
   }
  ]
 }
