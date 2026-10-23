@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-23T03:15:31+00:00",
+ "waktu": "2026-10-23T16:40:00+00:00",
  "hasil": "berhasil",
- "potret": 146,
- "barang": 220,
+ "potret": 147,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 146,
- "naik": 6,
+ "total_potret": 147,
+ "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
-   "ubah": 27.8,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Emerald Web (Field-Tested)",
-   "ubah": 12.5,
-   "selisih": 284.21
+   "nama": "★ Moto Gloves | Spearmint (Field-Tested)",
+   "ubah": 16.0,
+   "selisih": 401.81
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 11.4,
-   "selisih": 9.5
+   "pasar": "cs2",
+   "nama": "Sticker | Vox Eminor (Holo) | Katowice 2015",
+   "ubah": 10.8,
+   "selisih": 185.49
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 10.0,
-   "selisih": 1.0
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Superconductor (Field-Tested)",
+   "ubah": 2.3,
+   "selisih": 48.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Factory New)",
+   "ubah": 1.8,
+   "selisih": 66.17
   }
  ]
 }
