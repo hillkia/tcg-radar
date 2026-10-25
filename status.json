@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-24T15:34:02+00:00",
+ "waktu": "2026-10-25T03:04:14+00:00",
  "hasil": "berhasil",
- "potret": 149,
- "barang": 260,
+ "potret": 150,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 149,
- "naik": 5,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 502: Bad Gateway (5 percobaan)"
+ },
+ "total_potret": 150,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 17.4,
-   "selisih": 4.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 11.4,
-   "selisih": 9.5
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 11.1,
-   "selisih": 1.0
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 6.3,
-   "selisih": 143.09
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 11.5,
+   "selisih": 149.57
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ StatTrak™ Butterfly Knife",
+   "ubah": 11.5,
+   "selisih": 170.08
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART THE MONSTERS CAT MODE ON Vinyl Plush - PRESALE - US SELLER",
+   "ubah": 7.9,
+   "selisih": 3.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 5.3,
+   "selisih": 1.0
   }
  ]
 }
