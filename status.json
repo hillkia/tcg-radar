@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-26T03:04:31+00:00",
+ "waktu": "2026-10-26T18:25:21+00:00",
  "hasil": "berhasil",
- "potret": 152,
- "barang": 240,
+ "potret": 153,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 152,
- "naik": 4,
+ "total_potret": 153,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 23.1,
-   "selisih": 3.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 368.6,
+   "selisih": 70.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 50.1,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 50.1,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 41.7,
+   "selisih": 25.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Big Into Energy Full Case Set of 6 Authentic NEW",
-   "ubah": 8.4,
-   "selisih": 5.01
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 7.1,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 3.8,
-   "selisih": 89.97
+   "ubah": 7.7,
+   "selisih": 5.0
   }
  ]
 }
