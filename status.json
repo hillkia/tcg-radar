@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-26T18:25:21+00:00",
+ "waktu": "2026-10-27T03:35:18+00:00",
  "hasil": "berhasil",
- "potret": 153,
- "barang": 260,
+ "potret": 154,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 153,
- "naik": 6,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 154,
+ "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 564.1,
+   "selisih": 62.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+   "ubah": 31.8,
+   "selisih": 438.19
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
+   "ubah": 24.1,
+   "selisih": 441.08
+  },
+  {
+   "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 368.6,
-   "selisih": 70.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 50.1,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 50.1,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 41.7,
-   "selisih": 25.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Big Into Energy Full Case Set of 6 Authentic NEW",
-   "ubah": 7.7,
-   "selisih": 5.0
+   "ubah": 23.6,
+   "selisih": 21.0
   }
  ]
 }
