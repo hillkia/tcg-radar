@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-27T17:39:38+00:00",
+ "waktu": "2026-10-28T03:51:17+00:00",
  "hasil": "berhasil",
- "potret": 155,
+ "potret": 156,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 155,
- "naik": 9,
+ "total_potret": 156,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "Monkey.D.Luffy ST21-001 ONE PIECE Tcg Card Game NM RED Leader",
-   "ubah": 67.0,
-   "selisih": 6.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 31.0,
-   "selisih": 9.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Card  OP(01-15) Japanese Sealed Booster Box in Stock FreeShip OP13",
-   "ubah": 27.7,
-   "selisih": 25.67
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 30.8,
+   "selisih": 4.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
-   "ubah": 9.1,
-   "selisih": 2.0
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 6.7,
+   "selisih": 1.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife",
+   "ubah": 4.8,
+   "selisih": 68.31
   }
  ]
 }
