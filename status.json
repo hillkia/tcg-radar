@@ -1,49 +1,50 @@
 {
- "waktu": "2026-10-28T03:51:17+00:00",
+ "waktu": "2026-10-28T18:01:45+00:00",
  "hasil": "berhasil",
- "potret": 156,
- "barang": 260,
+ "potret": 157,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 156,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 157,
  "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "POP MART x Labubu The Monsters One Piece Series Figure Sealed Bag in Open Box",
+   "ubah": 150.1,
+   "selisih": 18.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "Pop Mart Labubu The Monsters Mokoko – Pop Land Exclusive | Select Design | New",
+   "ubah": 137.5,
+   "selisih": 110.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "ubah": 61.6,
+   "selisih": 8.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 30.8,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 16.7,
+   "selisih": 3.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 6.7,
-   "selisih": 1.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 4.8,
-   "selisih": 68.31
+   "pasar": "mtg",
+   "nama": "The Tabernacle at Pendrell Vale (LEG)",
+   "ubah": 11.7,
+   "selisih": 380.5
   }
  ]
 }
