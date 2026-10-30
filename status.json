@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-30T04:14:14+00:00",
+ "waktu": "2026-10-30T17:48:45+00:00",
  "hasil": "berhasil",
- "potret": 160,
+ "potret": 161,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 160,
- "naik": 8,
+ "total_potret": 161,
+ "naik": 13,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 21.2,
-   "selisih": 2.33
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "mtg",
-   "nama": "Drop of Honey (ARN)",
-   "ubah": 5.5,
-   "selisih": 31.85
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 76.5,
+   "selisih": 13.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Arid (Field-Tested)",
-   "ubah": 4.0,
-   "selisih": 59.33
+   "nama": "★ Butterfly Knife | Doppler (Factory New)",
+   "ubah": 31.0,
+   "selisih": 665.57
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
+   "ubah": 25.0,
+   "selisih": 8.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
-   "ubah": 3.3,
-   "selisih": 60.51
+   "nama": "★ Moto Gloves | Spearmint (Field-Tested)",
+   "ubah": 16.4,
+   "selisih": 412.17
   }
  ]
 }
