@@ -1,7 +1,7 @@
 {
- "waktu": "2026-10-30T17:48:45+00:00",
+ "waktu": "2026-10-31T03:56:12+00:00",
  "hasil": "berhasil",
- "potret": 161,
+ "potret": 162,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 161,
- "naik": 13,
+ "total_potret": 162,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "100% AUTHENTIC! Pop Mart The Monsters Labubu Zimomo Angel in Clouds WITH TOTE!",
+   "ubah": 11.8,
+   "selisih": 20.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
+   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
+   "ubah": 9.5,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Doppler (Factory New)",
-   "ubah": 31.0,
-   "selisih": 665.57
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 25.0,
-   "selisih": 8.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Moto Gloves | Spearmint (Field-Tested)",
-   "ubah": 16.4,
-   "selisih": 412.17
+   "nama": "★ Butterfly Knife | Slaughter (Factory New)",
+   "ubah": 5.4,
+   "selisih": 80.96
   }
  ]
 }
