@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-01T04:11:33+00:00",
+ "waktu": "2026-11-01T17:43:58+00:00",
  "hasil": "berhasil",
- "potret": 164,
- "barang": 220,
+ "potret": 165,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 164,
- "naik": 6,
+ "total_potret": 165,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "onepiece",
-   "nama": "Monkey.D.Luffy OP09-061 ONE PIECE Tcg Card Game NM PURPLE/BLACK Leader",
-   "ubah": 923.1,
-   "selisih": 18.0
-  },
-  {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 372.4,
-   "selisih": 67.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 43.3,
-   "selisih": 13.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 6.7,
+   "selisih": 1.0
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 25.0,
-   "selisih": 451.98
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 6.4,
+   "selisih": 101.37
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 21.2,
-   "selisih": 2.33
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Fade (Factory New)",
+   "ubah": 4.9,
+   "selisih": 124.26
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife",
+   "ubah": 4.8,
+   "selisih": 68.6
   }
  ]
 }
