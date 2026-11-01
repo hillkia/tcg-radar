@@ -1,8 +1,8 @@
 {
- "waktu": "2026-10-31T16:57:59+00:00",
+ "waktu": "2026-11-01T04:11:33+00:00",
  "hasil": "berhasil",
- "potret": 163,
- "barang": 260,
+ "potret": 164,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 163,
- "naik": 5,
+ "total_potret": 164,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 520.3,
-   "selisih": 104.0
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy OP09-061 ONE PIECE Tcg Card Game NM PURPLE/BLACK Leader",
+   "ubah": 923.1,
+   "selisih": 18.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 60.1,
-   "selisih": 6.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 372.4,
+   "selisih": 67.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
+   "ubah": 43.3,
+   "selisih": 13.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Gamma Doppler (Factory New)",
-   "ubah": 9.3,
-   "selisih": 157.55
+   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
+   "ubah": 25.0,
+   "selisih": 451.98
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
-   "ubah": 1.8,
-   "selisih": 79.3
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 21.2,
+   "selisih": 2.33
   }
  ]
 }
