@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-01T17:43:58+00:00",
+ "waktu": "2026-11-02T04:14:30+00:00",
  "hasil": "berhasil",
- "potret": 165,
+ "potret": 166,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 165,
+ "total_potret": 166,
  "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Big Into Energy Full Case Set of 6 Authentic NEW",
    "ubah": 6.7,
-   "selisih": 1.0
+   "selisih": 5.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A1-S | Hot Rod (Factory New)",
-   "ubah": 6.4,
-   "selisih": 101.37
+   "nama": "★ StatTrak™ Butterfly Knife",
+   "ubah": 5.5,
+   "selisih": 84.73
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 4.9,
-   "selisih": 124.26
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife",
-   "ubah": 4.8,
-   "selisih": 68.6
+   "nama": "★ Butterfly Knife | Marble Fade (Factory New)",
+   "ubah": 2.9,
+   "selisih": 40.86
   }
  ]
 }
