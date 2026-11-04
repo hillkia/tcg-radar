@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-04T04:43:22+00:00",
+ "waktu": "2026-11-04T19:29:49+00:00",
  "hasil": "berhasil",
- "potret": 170,
- "barang": 260,
+ "potret": 171,
+ "barang": 240,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 170,
- "naik": 4,
+ "total_potret": 171,
+ "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 172.9,
-   "selisih": 19.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 591.4,
+   "selisih": 65.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "Monkey.D.Luffy ST21-001 ONE PIECE Tcg Card Game NM RED Leader",
-   "ubah": 75.9,
-   "selisih": 6.45
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 14.3,
+   "selisih": 2.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 9.7,
-   "selisih": 134.73
-  },
-  {
-   "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 1.0,
-   "selisih": 56.54
+   "nama": "M4A4 | Poseidon (Factory New)",
+   "ubah": 7.1,
+   "selisih": 144.14
   }
  ]
 }
