@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-04T19:29:49+00:00",
+ "waktu": "2026-11-05T04:57:57+00:00",
  "hasil": "berhasil",
- "potret": 171,
- "barang": 240,
+ "potret": 172,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 171,
- "naik": 8,
+ "total_potret": 172,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 591.4,
-   "selisih": 65.0
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 60.1,
+   "selisih": 6.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 14.3,
-   "selisih": 2.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
-   "ubah": 12.5,
-   "selisih": 3.5
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "M4A4 | Poseidon (Factory New)",
-   "ubah": 7.1,
-   "selisih": 144.14
+   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
+   "ubah": 4.1,
+   "selisih": 56.02
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Arid (Field-Tested)",
+   "ubah": 3.5,
+   "selisih": 52.76
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
+   "ubah": 2.4,
+   "selisih": 40.38
   }
  ]
 }
