@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-06T04:57:44+00:00",
+ "waktu": "2026-11-06T19:00:55+00:00",
  "hasil": "berhasil",
- "potret": 174,
+ "potret": 175,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 174,
- "naik": 9,
+ "total_potret": 175,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 76.5,
-   "selisih": 13.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 431.5,
+   "selisih": 69.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 32.2,
+   "selisih": 441.25
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 57.2,
-   "selisih": 8.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 10.0,
+   "selisih": 1.0
   },
   {
-   "pasar": "mtg",
-   "nama": "Zodiac Dragon (PTK)",
-   "ubah": 21.4,
-   "selisih": 149.86
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 8.7,
+   "selisih": 346.91
   },
   {
-   "pasar": "onepiece",
-   "nama": "Roronoa Zoro OP12-020 Alt Art - One Piece TCG English Card Near Mint - ST32",
-   "ubah": 17.7,
-   "selisih": 2.4
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
-   "ubah": 12.5,
-   "selisih": 3.5
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+   "ubah": 5.0,
+   "selisih": 189.17
   }
  ]
 }
