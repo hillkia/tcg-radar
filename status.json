@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-05T19:39:25+00:00",
+ "waktu": "2026-11-06T04:57:44+00:00",
  "hasil": "berhasil",
- "potret": 173,
+ "potret": 174,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 173,
- "naik": 7,
+ "total_potret": 174,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 60.7,
-   "selisih": 859.95
-  },
-  {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 43.3,
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 76.5,
    "selisih": 13.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Vice (Minimal Wear)",
-   "ubah": 4.1,
-   "selisih": 57.83
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 57.2,
+   "selisih": 8.0
   },
   {
-   "pasar": "cs2",
-   "nama": "M4A4 | Howl (Factory New)",
-   "ubah": 3.5,
-   "selisih": 239.06
+   "pasar": "mtg",
+   "nama": "Zodiac Dragon (PTK)",
+   "ubah": 21.4,
+   "selisih": 149.86
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Fade (Factory New)",
-   "ubah": 3.2,
-   "selisih": 71.23
+   "pasar": "onepiece",
+   "nama": "Roronoa Zoro OP12-020 Alt Art - One Piece TCG English Card Near Mint - ST32",
+   "ubah": 17.7,
+   "selisih": 2.4
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   }
  ]
 }
