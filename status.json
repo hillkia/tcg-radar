@@ -1,49 +1,50 @@
 {
- "waktu": "2026-11-06T19:00:55+00:00",
+ "waktu": "2026-11-07T04:30:36+00:00",
  "hasil": "berhasil",
- "potret": 175,
- "barang": 260,
+ "potret": 176,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 175,
- "naik": 6,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 176,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 431.5,
-   "selisih": 69.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 32.2,
-   "selisih": 441.25
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 10.0,
-   "selisih": 1.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 27.9,
+   "selisih": 24.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 8.7,
-   "selisih": 346.91
+   "nama": "★ Driver Gloves | Crimson Weave (Field-Tested)",
+   "ubah": 27.0,
+   "selisih": 434.07
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   },
   {
    "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
-   "ubah": 5.0,
-   "selisih": 189.17
+   "nama": "★ Butterfly Knife | Slaughter (Factory New)",
+   "ubah": 3.8,
+   "selisih": 54.25
   }
  ]
 }
