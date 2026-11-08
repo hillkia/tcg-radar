@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-07T17:33:56+00:00",
+ "waktu": "2026-11-08T04:15:49+00:00",
  "hasil": "berhasil",
- "potret": 177,
+ "potret": 178,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 177,
- "naik": 5,
+ "total_potret": 178,
+ "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 431.5,
-   "selisih": 69.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 21.2,
-   "selisih": 2.33
+   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
+   "ubah": 30.8,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Factory New)",
+   "ubah": 17.3,
+   "selisih": 389.2
   },
   {
    "pasar": "arttoy",
-   "nama": "100% AUTHENTIC! Pop Mart The Monsters Labubu Zimomo Angel in Clouds WITH TOTE!",
-   "ubah": 5.3,
-   "selisih": 10.0
+   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
+   "ubah": 12.5,
+   "selisih": 3.5
   },
   {
-   "pasar": "cs2",
-   "nama": "Glock-18 | Fade (Factory New)",
-   "ubah": 3.0,
-   "selisih": 52.33
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Battle-Scarred)",
-   "ubah": 2.7,
-   "selisih": 65.41
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
+   "ubah": 9.5,
+   "selisih": 2.0
   }
  ]
 }
