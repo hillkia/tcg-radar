@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-08T04:15:49+00:00",
+ "waktu": "2026-11-08T17:44:33+00:00",
  "hasil": "berhasil",
- "potret": 178,
+ "potret": 179,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,38 +11,38 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 178,
+ "total_potret": 179,
  "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 45.5,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "LOYALTY POP MART Labubu The Monsters Big Into Energy Serie Plush Doll Authentic",
+   "ubah": 42.9,
+   "selisih": 9.6
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "SERENITY POP MART Labubu The Monsters Big Into Energy Serie Plush Doll Authentic",
+   "ubah": 42.9,
+   "selisih": 9.6
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 25.0,
    "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 30.8,
-   "selisih": 4.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Factory New)",
-   "ubah": 17.3,
-   "selisih": 389.2
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "100% Authentic POP MART Wacky Mart Series Labubu The Monsters Figures US Seller",
-   "ubah": 12.5,
-   "selisih": 3.5
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 9.5,
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
    "selisih": 2.0
   }
  ]
