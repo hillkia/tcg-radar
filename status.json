@@ -1,49 +1,32 @@
 {
- "waktu": "2026-11-09T04:30:25+00:00",
+ "waktu": "2026-11-09T22:02:01+00:00",
  "hasil": "berhasil",
- "potret": 180,
- "barang": 260,
+ "potret": 181,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 180,
- "naik": 9,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 500: Internal Server Error (5 percobaan)"
+ },
+ "total_potret": 181,
+ "naik": 2,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 52.2,
-   "selisih": 12.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 48.3,
-   "selisih": 14.0
-  },
-  {
-   "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 30.8,
-   "selisih": 4.0
+   "ubah": 76.5,
+   "selisih": 13.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 28.9,
-   "selisih": 392.29
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
-   "ubah": 7.4,
-   "selisih": 318.19
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 6.7,
+   "selisih": 1.0
   }
  ]
 }
