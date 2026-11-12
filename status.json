@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-11T19:21:24+00:00",
+ "waktu": "2026-11-12T05:39:24+00:00",
  "hasil": "berhasil",
- "potret": 185,
- "barang": 260,
+ "potret": 186,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 185,
- "naik": 5,
+ "total_potret": 186,
+ "naik": 11,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 21.2,
-   "selisih": 2.33
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 330.2,
+   "selisih": 66.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Specialist Gloves | Emerald Web (Field-Tested)",
-   "ubah": 8.6,
-   "selisih": 174.63
+   "pasar": "onepiece",
+   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
+   "ubah": 100.7,
+   "selisih": 7.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ M9 Bayonet | Gamma Doppler (Factory New)",
-   "ubah": 4.4,
-   "selisih": 66.22
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
-   "pasar": "cs2",
-   "nama": "M4A4 | Howl (Minimal Wear)",
-   "ubah": 2.5,
-   "selisih": 133.4
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 18.2,
+   "selisih": 2.0
   },
   {
-   "pasar": "cs2",
-   "nama": "M4A4 | Howl (Field-Tested)",
-   "ubah": 1.5,
-   "selisih": 66.49
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
+   "ubah": 17.4,
+   "selisih": 4.0
   }
  ]
 }
