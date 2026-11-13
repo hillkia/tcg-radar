@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-13T04:56:03+00:00",
+ "waktu": "2026-11-13T19:21:19+00:00",
  "hasil": "berhasil",
- "potret": 188,
- "barang": 260,
+ "potret": 189,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,27 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 188,
- "naik": 6,
+ "total_potret": 189,
+ "naik": 3,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 25.0,
-   "selisih": 3.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 41.7,
+   "selisih": 25.0
   },
   {
-   "pasar": "mtg",
-   "nama": "Juzám Djinn (ARN)",
-   "ubah": 23.0,
-   "selisih": 486.5
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "Monkey.D.Luffy P-099 Alt Art 4th Anniversary Promo - One Piece TCG English Card",
-   "ubah": 17.7,
-   "selisih": 3.0
+   "pasar": "cs2",
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 30.3,
+   "selisih": 401.26
   },
   {
    "pasar": "cs2",
    "nama": "★ Butterfly Knife | Blue Steel (Factory New)",
-   "ubah": 17.2,
-   "selisih": 229.97
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
+   "ubah": 14.3,
+   "selisih": 224.47
   }
  ]
 }
