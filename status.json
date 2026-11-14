@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-13T19:21:19+00:00",
+ "waktu": "2026-11-14T04:49:02+00:00",
  "hasil": "berhasil",
- "potret": 189,
- "barang": 220,
+ "potret": 190,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,27 +11,33 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 189,
- "naik": 3,
+ "total_potret": 190,
+ "naik": 4,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 41.7,
-   "selisih": 25.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 18.2,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 30.3,
-   "selisih": 401.26
+   "nama": "Glock-18 | Fade (Factory New)",
+   "ubah": 3.9,
+   "selisih": 71.85
   },
   {
    "pasar": "cs2",
-   "nama": "★ Butterfly Knife | Blue Steel (Factory New)",
-   "ubah": 14.3,
-   "selisih": 224.47
+   "nama": "★ Butterfly Knife | Gamma Doppler (Factory New)",
+   "ubah": 2.6,
+   "selisih": 42.25
   }
  ]
 }
