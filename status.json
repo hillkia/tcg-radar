@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-16T04:37:23+00:00",
+ "waktu": "2026-11-16T21:44:31+00:00",
  "hasil": "berhasil",
- "potret": 194,
+ "potret": 195,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 194,
- "naik": 9,
+ "total_potret": 195,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 479.2,
-   "selisih": 91.0
+   "pasar": "onepiece",
+   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
+   "ubah": 100.7,
+   "selisih": 7.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 18.2,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 30.4,
-   "selisih": 399.76
+   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+   "ubah": 10.6,
+   "selisih": 388.45
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu x Hello Kitty Plush Pendant Authentic Fast US Shipping",
-   "ubah": 19.2,
-   "selisih": 5.0
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Superconductor (Field-Tested)",
+   "ubah": 7.2,
+   "selisih": 122.03
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Hair Salon Series Plush Pendant Dolls in Open Box",
-   "ubah": 9.5,
-   "selisih": 2.0
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Factory New)",
+   "ubah": 5.2,
+   "selisih": 118.02
   }
  ]
 }
