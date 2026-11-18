@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-17T20:35:27+00:00",
+ "waktu": "2026-11-18T05:47:57+00:00",
  "hasil": "berhasil",
- "potret": 197,
+ "potret": 198,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 197,
- "naik": 13,
+ "total_potret": 198,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 26.1,
-   "selisih": 344.53
-  },
-  {
-   "pasar": "mtg",
-   "nama": "Bazaar of Baghdad (ARN)",
-   "ubah": 19.2,
-   "selisih": 387.37
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
-   "nama": "NEW RARE SEALED POP MART The Monsters LABUBU Walk By Fortune AUTHENTIC. (NIB)",
-   "ubah": 16.7,
-   "selisih": 100.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
-   "ubah": 16.7,
-   "selisih": 2.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 431.5,
+   "selisih": 69.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ StatTrak™ Karambit | Doppler (Factory New)",
-   "ubah": 14.2,
-   "selisih": 254.51
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 50.1,
+   "selisih": 5.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 21.2,
+   "selisih": 2.33
   }
  ]
 }
