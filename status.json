@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-18T20:07:52+00:00",
+ "waktu": "2026-11-19T05:47:57+00:00",
  "hasil": "berhasil",
- "potret": 199,
+ "potret": 200,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,33 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 199,
- "naik": 4,
+ "total_potret": 200,
+ "naik": 6,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART 🆕 AUTHENTIC Labubu THE MONSTERS Boy Rare Limited Figure H20CM",
-   "ubah": 220.0,
-   "selisih": 274.99
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 567.3,
+   "selisih": 51.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 114.4,
-   "selisih": 16.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 27.9,
+   "selisih": 24.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 21.2,
+   "selisih": 2.33
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 17.7,
+   "selisih": 3.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Fade (Factory New)",
-   "ubah": 15.7,
-   "selisih": 271.96
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Medusa (Well-Worn)",
-   "ubah": 3.0,
-   "selisih": 55.02
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 3.4,
+   "selisih": 46.93
   }
  ]
 }
