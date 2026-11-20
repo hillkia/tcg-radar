@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-20T05:36:56+00:00",
+ "waktu": "2026-11-20T19:43:36+00:00",
  "hasil": "berhasil",
- "potret": 202,
+ "potret": 203,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,21 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 202,
- "naik": 2,
+ "total_potret": 203,
+ "naik": 5,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 23.0,
-   "selisih": 414.49
+   "pasar": "onepiece",
+   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
+   "ubah": 623.5,
+   "selisih": 11.16
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 5.9,
-   "selisih": 1.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 30.0,
+   "selisih": 3.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
+   "ubah": 23.1,
+   "selisih": 3.0
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AWP | Desert Hydra (Factory New)",
+   "ubah": 4.5,
+   "selisih": 83.65
+  },
+  {
+   "pasar": "cs2",
+   "nama": "StatTrak™ AK-47 | Vulcan (Factory New)",
+   "ubah": 3.1,
+   "selisih": 46.54
   }
  ]
 }
