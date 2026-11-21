@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-20T19:43:36+00:00",
+ "waktu": "2026-11-21T05:30:22+00:00",
  "hasil": "berhasil",
- "potret": 203,
- "barang": 260,
+ "potret": 204,
+ "barang": 220,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 203,
- "naik": 5,
+ "total_potret": 204,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 275.2,
+   "selisih": 44.0
+  },
+  {
    "pasar": "onepiece",
-   "nama": "Roronoa Zoro OP12-020 ONE PIECE Tcg Card Game NM GREEN Leader",
-   "ubah": 623.5,
-   "selisih": 11.16
+   "nama": "Nami Usopp DON Card 2 Set World Unification Promo ONE PIECE English",
+   "ubah": 20.0,
+   "selisih": 5.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 30.0,
-   "selisih": 3.0
+   "nama": "POP MART THE MONSTERS Secret Gallery Series Figures -  PRESALE - US SELLER",
+   "ubah": 19.1,
+   "selisih": 4.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 23.1,
-   "selisih": 3.0
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
   },
   {
    "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 4.5,
-   "selisih": 83.65
-  },
-  {
-   "pasar": "cs2",
-   "nama": "StatTrak™ AK-47 | Vulcan (Factory New)",
-   "ubah": 3.1,
-   "selisih": 46.54
+   "nama": "★ StatTrak™ Butterfly Knife",
+   "ubah": 9.6,
+   "selisih": 141.47
   }
  ]
 }
