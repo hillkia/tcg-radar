@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-21T18:49:06+00:00",
+ "waktu": "2026-11-22T04:55:55+00:00",
  "hasil": "berhasil",
- "potret": 205,
+ "potret": 206,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 205,
- "naik": 5,
+ "total_potret": 206,
+ "naik": 10,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 352.8,
+   "selisih": 67.0
   },
   {
-   "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Factory New)",
-   "ubah": 9.3,
-   "selisih": 198.91
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 66.7,
+   "selisih": 6.0
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Superconductor (Field-Tested)",
-   "ubah": 9.2,
-   "selisih": 172.41
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy ST21-001 ONE PIECE Tcg Card Game NM RED Leader",
+   "ubah": 50.3,
+   "selisih": 4.0
   },
   {
-   "pasar": "cs2",
-   "nama": "AWP | Medusa (Field-Tested)",
-   "ubah": 4.5,
-   "selisih": 92.06
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 33.3,
+   "selisih": 3.33
   },
   {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
-   "ubah": 1.5,
-   "selisih": 25.93
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Hair Salon Series Figure Sealed Bag in Open Box",
+   "ubah": 16.7,
+   "selisih": 2.0
   }
  ]
 }
