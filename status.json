@@ -1,49 +1,50 @@
 {
- "waktu": "2026-11-22T19:11:38+00:00",
+ "waktu": "2026-11-23T05:37:16+00:00",
  "hasil": "berhasil",
- "potret": 207,
- "barang": 240,
+ "potret": 208,
+ "barang": 200,
  "hidup": [
-  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {},
- "total_potret": 207,
- "naik": 9,
+ "mati": {
+  "pokemon": "pokemontcg.io: HTTP Error 502: Bad Gateway (5 percobaan)"
+ },
+ "total_potret": 208,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 45.5,
-   "selisih": 5.0
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 31.3,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Karambit | Doppler (Factory New)",
-   "ubah": 27.6,
-   "selisih": 367.51
-  },
-  {
-   "pasar": "onepiece",
-   "nama": "One Piece TCG Chinese Roronoa Zoro OP18-092 TR Exclusive Card 2026 Near Mint",
-   "ubah": 16.7,
-   "selisih": 40.0
+   "ubah": 304.9,
+   "selisih": 64.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 14.3,
-   "selisih": 2.0
+   "ubah": 87.6,
+   "selisih": 14.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
+   "ubah": 21.2,
+   "selisih": 2.33
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Bayonet | Doppler (Factory New)",
+   "ubah": 5.4,
+   "selisih": 85.12
   }
  ]
 }
