@@ -1,50 +1,49 @@
 {
- "waktu": "2026-11-23T05:37:16+00:00",
+ "waktu": "2026-11-23T23:32:29+00:00",
  "hasil": "berhasil",
- "potret": 208,
- "barang": 200,
+ "potret": 209,
+ "barang": 260,
  "hidup": [
+  "pokemon",
   "mtg",
   "cs2",
   "arttoy",
   "onepiece"
  ],
- "mati": {
-  "pokemon": "pokemontcg.io: HTTP Error 502: Bad Gateway (5 percobaan)"
- },
- "total_potret": 208,
+ "mati": {},
+ "total_potret": 209,
  "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "pasar": "onepiece",
+   "nama": "Rebecca One Piece Custom Fan Art Card - Sexy Waifu Holographic TCG Bikini",
+   "ubah": 50.0,
+   "selisih": 2.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 304.9,
-   "selisih": 64.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 87.6,
-   "selisih": 14.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Lazy Yoga Series Figure Sealed Bag in Open Box",
-   "ubah": 21.2,
-   "selisih": 2.33
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Bayonet | Doppler (Factory New)",
-   "ubah": 5.4,
-   "selisih": 85.12
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 16.9,
+   "selisih": 635.67
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "One Piece TCG Chinese Nico Robin Manga OP18-031 Card 2026 Near Mint",
+   "ubah": 10.3,
+   "selisih": 40.0
+  },
+  {
+   "pasar": "onepiece",
+   "nama": "Monkey.D.Luffy P-161 Release Event Winner - One Piece TCG English Card - Sealed",
+   "ubah": 3.3,
+   "selisih": 9.0
   }
  ]
 }
