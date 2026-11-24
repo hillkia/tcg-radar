@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-24T08:15:17+00:00",
+ "waktu": "2026-11-24T22:01:57+00:00",
  "hasil": "berhasil",
- "potret": 210,
+ "potret": 211,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 210,
+ "total_potret": 211,
  "naik": 8,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 361.8,
-   "selisih": 47.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 87.6,
-   "selisih": 14.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 37.5,
-   "selisih": 12.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 32.8,
-   "selisih": 21.0
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 712.9,
+   "selisih": 114.0
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 19.8,
-   "selisih": 346.49
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 30.2,
+   "selisih": 379.06
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Specialist Gloves | Emerald Web (Field-Tested)",
+   "ubah": 15.1,
+   "selisih": 319.89
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Karambit | Fade (Factory New)",
+   "ubah": 7.3,
+   "selisih": 134.9
+  },
+  {
+   "pasar": "mtg",
+   "nama": "Old Man of the Sea (ARN)",
+   "ubah": 6.7,
+   "selisih": 20.0
   }
  ]
 }
