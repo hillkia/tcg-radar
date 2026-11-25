@@ -1,8 +1,8 @@
 {
- "waktu": "2026-11-25T06:52:32+00:00",
+ "waktu": "2026-11-25T21:16:05+00:00",
  "hasil": "berhasil",
- "potret": 212,
- "barang": 240,
+ "potret": 213,
+ "barang": 260,
  "hidup": [
   "pokemon",
   "mtg",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 212,
- "naik": 11,
+ "total_potret": 213,
+ "naik": 7,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Kow Yokoyama Ma.K. Series Figure Sealed Bag OpenBox",
-   "ubah": 87.6,
-   "selisih": 14.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 50.1,
-   "selisih": 5.0
-  },
-  {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
-   "ubah": 41.7,
-   "selisih": 25.0
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 66.7,
+   "selisih": 6.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Driver Gloves | Crimson Weave (Field-Tested)",
-   "ubah": 29.3,
-   "selisih": 419.44
+   "nama": "★ Karambit | Doppler (Factory New)",
+   "ubah": 30.3,
+   "selisih": 382.21
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "Authentic POP MART Labubu The Monsters Big Into Energy Series Vinyl Plush Dolls",
+   "ubah": 25.0,
+   "selisih": 4.0
   },
   {
    "pasar": "cs2",
-   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
-   "ubah": 21.1,
-   "selisih": 366.07
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 16.9,
+   "selisih": 634.07
+  },
+  {
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+   "ubah": 16.7,
+   "selisih": 553.96
   }
  ]
 }
