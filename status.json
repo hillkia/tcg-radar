@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-27T06:34:52+00:00",
+ "waktu": "2026-11-27T20:48:50+00:00",
  "hasil": "berhasil",
- "potret": 216,
+ "potret": 217,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 216,
+ "total_potret": 217,
  "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Fruit Series Figure Sealed Bag in Open Box",
-   "ubah": 775.5,
-   "selisih": 124.0
+   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
+   "ubah": 479.2,
+   "selisih": 91.0
   },
   {
    "pasar": "arttoy",
-   "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 591.4,
-   "selisih": 65.0
+   "nama": "POP MART LABUBU The Monsters Big Into Energy - SEALED BOX - US SELLER",
+   "ubah": 291.4,
+   "selisih": 67.0
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
-   "ubah": 589.2,
-   "selisih": 106.0
+   "pasar": "cs2",
+   "nama": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+   "ubah": 33.7,
+   "selisih": 1265.98
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
-   "ubah": 44.5,
-   "selisih": 4.0
+   "pasar": "cs2",
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 9.9,
+   "selisih": 142.71
   },
   {
-   "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
-   "ubah": 20.0,
-   "selisih": 2.0
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Factory New)",
+   "ubah": 7.1,
+   "selisih": 152.7
   }
  ]
 }
