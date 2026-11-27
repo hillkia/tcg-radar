@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-26T21:04:11+00:00",
+ "waktu": "2026-11-27T06:34:52+00:00",
  "hasil": "berhasil",
- "potret": 215,
+ "potret": 216,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,27 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 215,
- "naik": 3,
+ "total_potret": 216,
+ "naik": 9,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Exciting Macaron Series Plush Figure Plush Dolls",
-   "ubah": 450.2,
-   "selisih": 90.0
-  },
-  {
-   "pasar": "cs2",
-   "nama": "★ Sport Gloves | Hedge Maze (Field-Tested)",
-   "ubah": 14.3,
-   "selisih": 554.33
+   "nama": "POP MART x Labubu The Monsters Fruit Series Figure Sealed Bag in Open Box",
+   "ubah": 775.5,
+   "selisih": 124.0
   },
   {
    "pasar": "arttoy",
    "nama": "POP MART x Labubu The Monsters Almost Hidden Series Figure Sealed Bag Open Box",
-   "ubah": 10.0,
-   "selisih": 1.0
+   "ubah": 591.4,
+   "selisih": 65.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Have A Seat Series Vinyl Plush Figure Toys Dolls",
+   "ubah": 589.2,
+   "selisih": 106.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters Wacky Mart Series Confirmed Figure Doll Toy",
+   "ubah": 44.5,
+   "selisih": 4.0
+  },
+  {
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 20.0,
+   "selisih": 2.0
   }
  ]
 }
