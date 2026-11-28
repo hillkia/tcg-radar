@@ -1,7 +1,7 @@
 {
- "waktu": "2026-11-28T06:09:59+00:00",
+ "waktu": "2026-11-28T19:40:17+00:00",
  "hasil": "berhasil",
- "potret": 218,
+ "potret": 219,
  "barang": 260,
  "hidup": [
   "pokemon",
@@ -11,39 +11,39 @@
   "onepiece"
  ],
  "mati": {},
- "total_potret": 218,
- "naik": 13,
+ "total_potret": 219,
+ "naik": 11,
  "catatan": "",
  "naik_teratas": [
   {
    "pasar": "arttoy",
-   "nama": "POP MART Labubu The Monsters Cat Mode On Series Vinyl Plush Dolls in Open Box",
-   "ubah": 57.2,
-   "selisih": 16.0
+   "nama": "POP MART Labubu The Monsters Pin For Love Series Mini Plush Pendant Figure Doll",
+   "ubah": 275.2,
+   "selisih": 44.0
   },
   {
    "pasar": "onepiece",
-   "nama": "Nami Usopp DON Card 2 Set World Unification OP18 Promo - One Piece TCG - Sealed",
-   "ubah": 56.3,
-   "selisih": 9.0
+   "nama": "AlolanHype ~ Custom One Piece Anime Nami Waifu Non-TCG Collectible Card",
+   "ubah": 25.1,
+   "selisih": 1.0
   },
   {
-   "pasar": "onepiece",
-   "nama": "One Piece Trading Card 30 Pack Deluxe Booster Box Anime TCG OP-WA201 NEW 2023",
-   "ubah": 37.0,
-   "selisih": 4.59
-  },
-  {
-   "pasar": "cs2",
-   "nama": "AWP | Desert Hydra (Factory New)",
-   "ubah": 17.7,
-   "selisih": 346.09
+   "pasar": "arttoy",
+   "nama": "POP MART Labubu The Monsters 1:00 A.M. Series Confirmed Blind Box Figure Doll",
+   "ubah": 25.0,
+   "selisih": 3.0
   },
   {
    "pasar": "cs2",
-   "nama": "★ Karambit | Gamma Doppler (Factory New)",
-   "ubah": 12.3,
-   "selisih": 169.97
+   "nama": "M4A1-S | Hot Rod (Factory New)",
+   "ubah": 21.9,
+   "selisih": 368.07
+  },
+  {
+   "pasar": "cs2",
+   "nama": "AK-47 | Gold Arabesque (Minimal Wear)",
+   "ubah": 20.6,
+   "selisih": 358.45
   }
  ]
 }
